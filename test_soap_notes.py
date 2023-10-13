@@ -66,7 +66,7 @@ def main(
     dialogs: List[Dialog] = [
         [
             {"role": "system", "content": system_context},
-            {"role": "user", "content": "I am going to Paris, what should I see?"},
+            {"role": "user", "content": prompt},
         ],
     ]
 
