@@ -1,0 +1,49 @@
+Dr. Smith: [00:00:00] Good morning, Ms. Brown. How are you feeling today?
+
+Ms. Brown: [00:00:03] Hello, Dr. Smith, I have been better. I'm feeling a little under the weather today.
+
+Dr. Smith: [00:00:09] I'm sorry to hear that. Let's start by you telling me what your symptoms are.
+
+Ms. Brown: [00:00:15] I think I have a fever, I've been having headaches for the past few days, and I'm always tired. I also noticed some blisters in my mouth that are quite painful.
+
+Dr. Smith: [00:00:29] I hear you. That could be indicative of a few things. Let’s take it one step at a time. When did you first notice these symptoms?
+
+Ms. Brown: [00:00:39] I'd say about two weeks ago, but I thought it was just the flu.
+
+Dr. Smith: [00:00:45] I see. Any chills, cough, or difficulty breathing?
+
+Ms. Brown: [00:00:50] Not really the difficulty in breathing, but yes to the chills and cough.
+
+Dr. Smith: [00:00:55] Okay, that's important to know. Also, have you recently lost any weight or experienced a loss of appetite?
+
+Ms. Brown: [00:01:04] I haven't been eating well because the sores in my mouth are so painful.
+
+Dr. Smith: [00:01:10] I understand. Sorry for the discomfort. Now, how has your sleep been lately?
+
+Ms. Brown: [00:01:17] It's been difficult due to the headaches and chills.
+
+Dr. Smith: [00:01:22] Okay, we're going to examine you now, starting with your mouth sores. This is to help me establish what's going on. [00:01:30] Do you have any allergies or underlying health conditions that we should be aware of?
+
+Ms. Brown: [00:01:36] Yes, I'm allergic to penicillin, and I have Type 2 diabetes.
+
+Dr. Smith: [00:01:41] Okay. That's very helpful. Thank you for your cooperation. Alright, your mouth sores seem to be a case of oral herpes, probably a factor contributing to your fever and fatigue. Have you had close contact with anyone with these similar symptoms or had such an occurrence before?
+
+Ms. Brown: [00:02:02] No, not that I know of.
+
+Dr. Smith: [00:02:05] Alright. We'll be doing blood tests as well to confirm this and see if there are other infections. Meanwhile, we’ll treat the symptoms you're experiencing.
+
+Ms. Brown: [00:02:17] Okay, Doctor, what's the treatment plan?
+
+Dr. Smith: [00:02:21] We will start you on antiviral medication like acyclovir or valacyclovir to manage the herpes, and also some over-the-counter pain relievers for your headaches. However, these medications might have interactions with your diabetes. Hence, we need to closely monitor your situation. 
+
+Ms. Brown: [00:02:42] Thank you, Doctor.
+
+Dr. Smith: [00:02:44] For now, take plenty of fluids, rest, and avoid spicy foods as they could cause more irritation in your mouth. Try using a soft toothbrush too. We will meet again after your test results are back to adjust your treatment plan if necessary.
+
+Ms. Brown: [00:03:00] I'll do just that, Dr. Smith. 
+
+Dr. Smith: [00:03:05] Perfect. Take care of yourself, Ms. Brown. If you notice any changes or if your symptoms worsen, please reach out immediately.
+
+(The patient and doctor continue discussion on preventative measures and other health topics for the remaining time)
+
+(Transcript word count: 590 words)

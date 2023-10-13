@@ -1,0 +1,60 @@
+Clinic Visit Transcript
+
+Dr. Rogers (DR): Good morning. How can I help you today?
+
+Patient (PT): Good morning, Dr. Rogers. Recently, I’ve been feeling really tired all the time, even when I’ve had a good night’s sleep.
+
+DR: I see. And how long has this been going on for?
+
+PT: Probably about a month now.
+
+DR: Alright. Have there been any changes in your daily routine or any additional stress recently?
+
+PT: No, not really. Everything has been pretty normal.
+
+DR: Okay. And are you experiencing any other symptoms alongside this constant fatigue?
+
+PT: Actually, yes. I've had a low appetite and I've been losing weight unintentionally.
+
+DR: Thank you for letting me know. Any problems with sleep? Do you snore or wake up frequently during the night?
+
+PT: I don't snore, but I've been waking up frequently, yes. It's become quite disruptive to my sleep.
+
+DR: Those are important details. It seems you're facing multiple issues that may be contributing to your fatigue. Let's also discuss your diet and physical activity. Have there been any recent changes?
+
+PT: I've been eating less, and I've lost interest in food. Also, I haven’t had much energy to exercise.
+
+DR: Have you noticed any changes in mood – feelings of sadness or depression?
+
+PT: I've been feeling a little down lately, yes. The constant tiredness probably isn’t helping.
+
+DR: That's true. Your physical health strongly impacts your mood, and it's clear they're interconnected here. Chronic fatigue can indeed affect your mood. It seems we need to consider a couple of possibilities to identify the cause behind these symptoms, both physical factors and possible mental health ones.
+
+PT: I see. What do you suggest we do now?
+
+DR: Firstly, I want to conduct some blood tests to rule out potential medical causes like anaemia or thyroid issues, both of which can cause fatigue and changes in appetite. In the meantime, I would also like to get you to answer some questions that can help us screen for depression, as that can sometimes have physical symptoms like the ones you're experiencing. 
+
+PT: Sounds good, doctor.
+
+[Transcript Break. Over the next few minutes, Dr. Rogers conducts a depression screening questionnaire. He also orders a Complete Blood Count, Thyroid Function Test and Iron Level Test.]
+
+DR: Considering all your symptoms now, including some signs of potential depression, I think it's important you start therapy with a mental health professional, just as a preventative measure, or in case we find that it's playing a big role in what you're experiencing. I can refer you to someone who can help if you're open to it.
+
+PT: Yes, I think that would be a good idea. It might help to work through whatever's going on right now. 
+
+DR: That's a very positive step you're taking for your health. I will set up that referral and have the information sent to you.
+
+PT: Thank you, Doctor Rogers. I appreciate your help. 
+
+DR: It’s my pleasure. Remember, it’s okay not to be okay all the time. Once we get the tests back, if any treatment is required, we will discuss options and make sure you're comfortable with everything. You're not alone in this. We're here to help. 
+
+PT: I really appreciate you saying that. It makes things a bit easier.
+
+DR: I'm glad to hear. In the meantime, try to eat a balanced diet, maintain hydration and rest well. I will see you soon with your results. Let's aim not only for relief of your symptoms but also overall good health both physically and emotionally. 
+
+PT: I look forward to it. Thank you, again.
+
+[End of Transcript]
+
+Total time of appointment: 15 minutes.
+Total word count: 599 words.

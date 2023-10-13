@@ -1,0 +1,57 @@
+Doctor: Good afternoon, Mrs. Johnson. How can I assist you today?
+
+Mrs. Johnson: Good afternoon, Doctor. I've been experiencing frequent headaches recently, and it's beginning to disrupt my day-to-day life.
+
+Doctor: I'm sorry to hear that you're experiencing discomfort. Let's delve deeper into this. Can you describe these headaches to me?
+
+Mrs. Johnson: They're quite severe and more like a throbbing pain. Usually, they start from the front of my head and radiate towards the back. I also feel dizzy sometimes.
+
+Doctor: That sounds unsettling. When did you first notice these symptoms? 
+
+Mrs. Johnson: I'd say about two weeks ago. I brushed it off initially as stress headaches, but they've been persistent and increasing in intensity.
+
+Doctor: I see. And what have you done so far to relieve these symptoms?
+
+Mrs. Johnson: Mostly over-the-counter painkillers. They provide temporary relief, but the pain comes back within a few hours.
+
+Doctor: Noted. Let's talk more about the severity. On a scale of one to ten, with ten being unbearable pain, how would you rate your average headache?
+
+Mrs. Johnson: I'd say a seven. There are times when it shoots up to about a nine though.
+
+Doctor: It sounds very difficult. Have you noticed any patterns? Do these headaches occur at specific times of the day or in specific situations?
+
+Mrs. Johnson: Not really, it's quite random. But I have noticed they become more severe when I'm in bright light.
+
+Doctor: That's helpful information. Are there any accompanying symptoms like nausea, changes in vision, or sensitivity to sound?
+
+Mrs. Johnson: Yes, bright light and loud sounds do seem to aggravate the headache. I've also experienced bouts of nausea, but no significant changes in vision.
+
+Doctor: Alright, Mrs. Johnson. Do you or anyone in your family have a history of migraines?
+
+Mrs. Johnson: My mother used to suffer from migraines quite frequently, but I’ve never had symptoms quite like this.
+
+Doctor: Migraines can be hereditary, so your family history is important in this case. Also, has there been any recent changes in your life that could be causing extra stress?
+
+Mrs. Johnson: Well, work has been pretty demanding lately. Plus, the kids are home from school, so it's been more hectic than usual at home.
+
+Doctor: Increased stress levels can certainly contribute to migraines. But given your symptoms, I would recommend a more thorough examination to rule out other conditions. Have you been taking any other medication, prescribed or non-prescribed, for any other conditions?
+
+Mrs. Johnson: Just the usual multivitamins. And I take medication for high blood pressure.
+
+Doctor: That's helpful to know. Here's what I'm suggesting, Mrs. Johnson: we need to conduct a neurological examination to get a clearer understanding of what might be causing these headaches. I also recommend making time for relaxation every day, as stress might be exacerbating your symptoms. 
+
+Mrs. Johnson: That sounds reasonable, Doctor. When can we do the examination?
+
+Doctor: I can refer you to a specialist. They will get in touch and schedule an appointment with you. Meanwhile, I'd advise you to maintain a headache diary. Please note down when and where the headaches occur, the intensity, and anything that could potentially trigger them. This information will be beneficial.
+
+Mrs. Johnson: I can definitely do that, Doctor.
+
+Doctor: Great, Mrs. Johnson. Besides that, try to maintain a healthy diet, sleep schedule and incorporate some light exercise into your routine, as these can also help manage your symptoms. And remember, if the pain becomes significantly worse before your appointment, do not hesitate to go to the emergency room.
+
+Mrs. Johnson: Thank you for your help, Doctor. I appreciate it.
+
+Doctor: You're welcome, Mrs. Johnson. Please take care, and if you have any more concerns or if the situation worse, reach out to us immediately. We will also be in touch with your test results and follow-up appointments.
+
+Mrs. Johnson: Thank you, I will. Goodbye.
+
+Doctor: Goodbye, Mrs. Johnson. Take care of yourself.

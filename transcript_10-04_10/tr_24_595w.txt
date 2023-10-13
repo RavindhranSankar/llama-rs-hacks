@@ -1,0 +1,59 @@
+Doctor: Good morning, Mr. Johnson. What brings you in today?
+
+Patient: Good morning, Doctor. I've been feeling quite unwell for the past week. 
+
+Doctor: I'm sorry to hear that. Can you tell me about your symptoms?
+
+Patient: I’ve been having shortness of breath, dizziness, and excessive fatigue. I just don’t feel right, like I’m always tired and can’t catch my breath. 
+
+Doctor: I see. Just to clarify, have you experienced any chest pain, palpitations or fainting episodes?
+
+Patient: No, there have been no such instances.
+
+Doctor: Is this the first time you’re experiencing such symptoms?
+
+Patient: Yes, Doctor. I’ve never experienced this before.
+
+Doctor: Very well. Let's delve a little deeper. Can you tell me about your present lifestyle? What kind of work do you do? What about your eating habits, sleep, and exercise routine?
+
+Patient: I'm a software engineer, Doctor. Due to the nature of my work, I spend long hours sitting in front of the computer. For meals, I generally have fast food as it's convenient. Due to my work schedule, I sleep for about 5-6 hours a day, and I haven’t been exercising regularly.
+
+Doctor: I see, Mr. Johnson. A lifestyle change may be important to your overall well-being. But first, I will need to run some tests to rule out any underlying health issue. This might include a complete blood count, thyroid function test, electrocardiogram and a chest x-ray. 
+
+Patient: I understand, Doctor. Should I get the tests done right away?
+
+Doctor: Yes, please. I would suggest you get the tests done as soon as possible. We need the results to determine the right course of treatment. 
+
+Patient: Okay, will do.
+
+Doctor: Great. In the meantime, please try to incorporate small changes into your lifestyle. Perhaps you could start by minimizing the amount of fast food you consume and replacing it with healthier alternatives. Small, frequent meals may be good for you. If possible, try to add physical activities to your routines such as walking or light stretching exercises.
+
+Patient: I can certainly try that, Doctor. 
+
+Doctor: Excellent. And also consider improving your sleep routine. Try to aim for at least 7-8 hours of sleep daily, it's very important for your body.
+
+Patient: That might be hard with my work, but I’d definitely try.
+
+Doctor: I’m sure you'd manage it, Mr. Johnson. Stress management and work-life balance are crucial aspects of health. Perhaps, you can speak to your employer about your health concerns.
+
+Patient: I will discuss this with my superiors. Anything else that you suggest, Doctor?
+
+Doctor: At this point Mr. Johnson, the tests will give us more clarity. Given the symptoms you've described, it's important not to overlook anything. Once we have the results, we'll discuss your treatment options based upon them. I might refer you to a specialist depending upon the results, but let's wait and see.
+
+Patient: Sounds like a plan, Doctor. I'll get the tests done and schedule another appointment.
+
+Doctor: That's a great approach, Mr. Johnson. After we receive your test results, we would be able to discuss a customized treatment plan for you. Also, please feel free to contact the office if you experience any significant changes in your condition or if your symptoms worsen.
+
+Patient: I appreciate the advice, Doctor. I'll call in when the results are ready.
+
+Doctor: Sounds good, Mr. Johnson. Please take care, and don't hesitate to call if you need anything.
+
+Patient: Thank you, Doctor. I will.
+
+Doctor: You're welcome, Mr. Johnson. Together we will figure out what's causing these symptoms and find a solution. I'll see you on your next visit. Please take care.
+
+Patient: Will do, Doctor. Thank you.
+
+Doctor: You're welcome, Mr. Johnson. Goodbye and take care.
+
+[End of Consultation]

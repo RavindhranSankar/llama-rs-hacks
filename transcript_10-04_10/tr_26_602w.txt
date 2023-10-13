@@ -1,0 +1,55 @@
+Patient: Mary Johnson
+Date: 01/25/2022
+Doctor: Dr. James Peterson, General Physician
+
+---------------TRANSCRIPT STARTS--------------- 
+
+Dr. Peterson: Good morning, Mrs. Johnson. How can I assist you today?
+
+Mrs. Johnson: Good morning, Dr. Peterson. I’ve been having a persistent cough for a few weeks now, and it seems to be getting worse. 
+
+Dr. Peterson: I'm sorry to hear that. Have you noticed any other symptoms such as fever, difficulty breathing, or fatigue?
+
+Mrs. Johnson: Yes, I have been really tired lately and experiencing shortness of breath sometimes. Plus, I've had a low-grade fever for the past couple of days. 
+
+Dr. Peterson: Okay, I see. Any changes in your appetite or weight recently?
+
+Mrs. Johnson: No, not really. My appetite seems to be the same as before.
+
+Dr. Peterson: Alright. Let me just note all these down. (pause). Okay. Have you had any exposure to any sick individuals recently?
+
+Mrs. Johnson: I don’t recall, doctor. Maybe at work, but no one I know personally.
+
+Dr. Peterson: Alright then. We are entering the flu season, which could be the reason, but given the times we live in, we must rule out COVID-19 as well. I'm going to recommend you for a COVID-19 test just to be on the safe side. 
+
+Mrs. Johnson: Oh, I see. I'm actually pretty worried about that.
+
+Dr. Peterson: I understand your concerns, Mrs. Johnson. The best course of action now is to isolate yourself until you get the results back. Have you got any chronic illnesses?
+
+Mrs. Johnson: No, I don’t have any. I just have high blood pressure, but I'm managing it with medication.
+
+Dr. Peterson: Good to know. Keep monitoring your blood pressure levels at home as well. Stress can also add up to these symptoms. Remember, staying calm is very important. Are you allergic to any medicines?
+
+Mrs. Johnson: I am allergic to penicillin, doctor.
+
+Dr. Peterson: Alright, I made a note of that too. I'm going to prescribe you a mild cough suppressant to help you with your cough in the meantime. 
+
+Mrs. Johnson: Alright, doctor. Is there anything else I should do?
+
+Dr. Peterson: Yes, make sure to stay hydrated, and complete rest can help boost your immunity. I recommend you take time off from work until we have a clear diagnosis. Also, please avoid close contact with anyone until we get the test result. If your condition worsens at any point or if you start experiencing severe breathlessness, please make sure to visit the emergency department immediately.
+
+Mrs. Johnson: I understand, Dr. Peterson. I'll do as you've instructed.
+
+Dr. Peterson: That’s great to hear. I have sent the prescription to your pharmacy and also requested a COVID-19 test for you. It should all be ready to pick up within the hour. Do you have any other concerns?
+
+Mrs. Johnson: I can't think of anything at the moment. I will contact your office if I need additional help.
+
+Dr. Peterson: That’s perfectly fine, Mrs. Johnson. You’re doing great. One more thing - I would like to see you again in the next few days to check your progress. I'll have my nurse set up a telehealth appointment as we need to limit exposure until we have further information. Also, if the cough hasn't improved after a week, we can explore more options.
+
+Mrs. Johnson: Perfect. Thank you for all your assistance, Dr. Peterson.
+
+Dr. Peterson: It's my pleasure, Mrs. Johnson. Please take care and get some rest. I’ll look forward to our conversation at the subsequent appointment. 
+
+---------------TRANSCRIPT ENDS ---------------
+
+Note: This was a hypothetical patient visit situation. This transcript is to provide an example of a general physician and patient conversation and may not accurately represent real-life scenarios. For any health concerns, please consult with a healthcare provider.

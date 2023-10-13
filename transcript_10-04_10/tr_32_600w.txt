@@ -1,0 +1,65 @@
+Doctor: (D) Patient: (P)
+
+D: Good afternoon. How can I assist you today?
+
+P: Hi doctor, I've been feeling unwell recently. For the past few days, I have had a constant headache and a high fever.
+
+D: I'm sorry to hear about your discomfort. Could you please provide a little more detail? When did the fever start?
+
+P: About three days ago, I believe. But the headache started around five days ago.
+
+D: Are there any associated symptoms like nausea, vomiting, extreme fatigue, stiff neck, light sensitivity, or rash? 
+
+P: Actually, yes! There's been a lot of fatigue, and I've been feeling nauseous as well... Light seems too bright for me.
+
+D: Okay, that's important information. Have you been taking any medication to manage these symptoms?
+
+P: I've been taking Paracetamol for the fever and it helps to bring it down temporarily, but the fever spikes again after a few hours.
+
+D: Noted. Let's proceed to a more detailed clinical history. Have you traveled recently? Had any contact with individuals who were unwell, you think?
+
+P: Yes, I had a trip to a rural area about two weeks ago. It was a work-related trip. And as far as I remember, one of my colleagues did have a fever at that time.
+
+D: That's worth noting. Do you have any known allergies? And did you receive any vaccinations before your trip?
+
+P: I'm allergic to Penicillin, but other than that, not that I'm aware of. And no, I didn't receive any vaccinations.
+
+D: Understood. Have you had any outbreaks of skin rash, redness, or skin soreness since your illness began?
+
+P: Hmm, not that I can think of.
+
+D: Alright. I will take note of these details. Now, in terms of your medical history, do you have any chronic illnesses, like diabetes, hypertension, etc.?
+
+P: No doctor. I haven't been diagnosed with any chronic illnesses so far.
+
+D: Good. And in the past week, have you noticed any changes in your bowel habits, urine color, or any unrelated pain?
+
+P: No specific changes, but I do feel restlessness and general unease.
+
+D: Okay then. Lastly, do you smoke or consume alcohol? 
+
+P: I am a non-smoker but I do drink occasionally, not too much though.
+
+D: Fair enough. Now based on your symptoms and exposure history, I believe we should do some tests to check for any potential tropical diseases, especially since your symptoms started soon after a rural trip. Additionally, we will also rule out common causes like flu, sinusitis, etc.
+
+P: Okay, that sounds reasonable. What kind of tests are we talking about?
+
+D: Well, I'll start with basic blood workup, including complete blood count, erythrocyte sedimentation rate, and C-reactive protein. If needed, we may also conduct lumbar puncture or brain imaging, but those would depend on your blood test results. 
+
+P: I understand. How long should it be before I get these results, doctor?
+
+D: Typically, a basic blood workup takes 24 hours. For the more detailed ones, it might take a couple of days. 
+
+P: And what about my headache and fever until then?
+
+D: Let's modify your medication for now to a stronger fever reducer, and add an anti-nausea medication. Rest is essential along with plenty of fluid intake. 
+
+P: Alright, doctor. I trust your diagnosis and will get these tests done swiftly. 
+
+D: That's a wise choice; early detection and treatment can significantly improve the outcome. Schedule the follow-up appointment with the receptionist once you have your reports. Take plenty of rest and remember, you are not alone in this. We'll get through it together.
+  
+P: Thank you, doctor. I appreciate your help and guidance.
+
+D: You're welcome. Take care and get well soon.
+
+(End of the 15-minute consultation)

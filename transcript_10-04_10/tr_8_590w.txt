@@ -1,0 +1,73 @@
+Clinic Visit Transcript
+
+Doctor (DR): Good morning. I'm Dr. Brown. How may I assist you today?
+
+Patient (PT): Good morning, doctor. I've been having severe migraines for the past few weeks.
+
+DR: I'm sorry to hear that. Can you tell me more about these migraines? 
+
+PT: They usually occur in the morning when I wake up. The pain typically lasts for a few hours and is usually concentrated on the right side of my head.
+
+DR: I see. On a scale of 1-10, how severe would you say the pain is?
+
+PT: I'd say about an 8. It’s quite severe.
+
+DR: And how frequently are these migraines occurring?
+
+PT: At least four or five times a week.
+
+DR: That's pretty frequent. Are there any triggers that you've noticed? Anything that seems to bring on the migraines?
+
+PT: I can't say for sure, but lack of sleep seems to be one factor.
+
+DR: What about diet or stress? Any changes there recently?
+
+PT: I have been eating more junk food lately and I have been under some stress at work.
+
+DR: Those could be contributing factors. Would you like to discuss stress management techniques or healthier diet options?
+
+PT: No, thank you. I hope to manage my diet and stress better in the future.
+
+DR: Alright. Have you noticed any visual changes or disturbances before the migraine starts?
+
+PT: Sometimes I see bright flashing lights before the headache begins.
+
+DR: That's a common symptom called an aura. Does anyone in your family have a history of similar headaches?
+
+PT: Yes, my mother used to have severe migraines too.
+
+DR: Genetic factors can definitely play a role. Have you taken any medication for these headaches?
+
+PT: I've been taking over-the-counter pain relievers, but they don't seem to help much.
+
+DR: Yes, they might not be enough for severe migraines. Before we discuss medication options, I also want to check your blood pressure. High blood pressure can sometimes cause headaches.
+
+[The doctor checks the patient's blood pressure, it's within normal limits.]
+
+DR: Your blood pressure looks good, which is great news. Now, given the frequency and severity of your migraines, I recommend trying prescription medication. I can prescribe you something called a triptan, which is specifically designed for migraines.
+
+PT: If you think it would help, I'm willing to try it.
+
+DR: I believe it could make a significant difference. However, it’s not suitable for patients with certain heart conditions. Has anyone in your immediate family had a heart attack or stroke?
+
+PT: No, not in my immediate family.
+
+DR: Good. We will start you on a low dose, and you'll take it when you feel a migraine coming on. It's important that you take it early in the course of the headache for maximum effectiveness. 
+
+PT: Understood. Is there anything else I can do to help avoid migraines?
+
+DR: Yes, keeping a migraine diary can be really helpful. You note what you eat, sleep patterns, activity levels, and any other factors that could be influencing your migraines. This helps establish patterns and determine triggers.
+
+PT: That sounds like a great idea. I'll certainly do that.
+
+DR: Excellent. Also, try to incorporate regular exercise into your routine, maintain a balanced diet, and minimize caffeine and alcohol consumption, as these can all contribute to migraines.
+
+PT: I’ll definitely start making those changes. Thank you, doctor.
+
+DR: You're welcome. Remember, you should contact me if the headaches increase in frequency or severity, or if you have an adverse reaction to the medication. Do you have any more questions for me?
+
+PT: Not right now, thank you. I appreciate your help.
+
+DR: Of course. It's my job to help. I hope you start feeling better soon.
+
+End of clinic visit.

@@ -1,0 +1,57 @@
+Dr. Smith: Good afternoon, Ms. Johnson. How are you feeling today?
+
+Ms. Johnson: Not so good, Dr. Smith. I've been feeling nauseous a lot and I've been feeling tired all the time. 
+
+Dr. Smith: I'm sorry to hear that. I hope we can figure out what's causing this. Can you tell me more about your symptoms? 
+
+Ms. Johnson: Well, as I said I've been feeling nauseous a lot. It seems to be worse in the morning. I've also been extremely tired. Even if I sleep for 8 hours, I still wake up feeling drained.
+
+Dr. Smith: Thank you for sharing that, Ms. Johnson. How long have you been experiencing these symptoms?
+
+Ms. Johnson: It's been about two weeks now.
+
+Dr. Smith: I see. Have you noticed any accompanying symptoms like vomiting, fever, or weight loss?
+
+Ms. Johnson: No, not really. Although my appetite has decreased, I haven't really lost any weight.
+
+Dr. Smith: Do you experience headaches, dizziness, or shortness of breath?
+
+Ms. Johnson: Not so much headaches or dizziness, but I do often find myself feeling short of breath.
+
+Dr. Smith: Thank you for providing these details, Ms. Johnson. It helps me understand the symptoms better. Any chance you might be pregnant?
+
+Ms. Johnson: I don't think so, Doctor. I'm on birth control, and I haven't missed my period. 
+
+Dr. Smith: All right, that's helpful. Sometimes, these can be early pregnancy symptoms, but considering your contraception and the absence of a missed period, we may need to investigate further.
+
+Dr. Smith: Have there been any changes in your daily activities, stress levels, or diet recently?
+
+Ms. Johnson: Work has been a bit more stressful lately, but my diet and activity levels have been pretty much the same. 
+
+Dr. Smith: Stress can indeed contribute to your fatigue and nausea. However, we should look into other possibilities as well.
+
+Dr. Smith: I am going to perform a few physical checks. May I?
+
+Ms. Johnson: Yes, of course.
+
+[Dr. Smith performs a variety of tests including checking blood pressure, oxygen levels, and reflexes. He also listens to her heart and lungs.]
+
+Dr. Smith: Your vitals are all within the normal range, but we will need to conduct some tests to get a clearer picture of what's causing your symptoms. I want to run some blood tests, including a basic metabolic panel, complete blood count, and thyroid function test. Also, let's do a test to rule out pregnancy, just in case.
+
+Ms. Johnson: Okay, I understand. 
+
+Dr. Smith: I know it's not easy dealing with these symptoms, and I want to reassure you that we are going to do everything we can to figure out what's going on and how to help you feel better. In the meantime, try consuming small, frequent meals instead of large ones to help with the nausea and keep yourself hydrated. Try to get some mild exercise, like walking as it may help with energy levels. 
+
+Ms. Johnson: Thank you, Dr. Smith. It's reassuring to hear that.
+
+Dr. Smith: You're welcome, Ms. Johnson. I'm going to ask the nurse to come in and draw some blood for these tests. Once we have the results, we'll discuss them and decide on the next steps. I expect to have them within a couple of days. Does this sound okay to you?
+
+Ms. Johnson: Yes, that sounds good.
+
+Dr. Smith: Alright, the nurse will be with you shortly, Ms. Johnson. Please take care, and don't hesitate to reach out if your symptoms worsen or if you have any concerns in the meantime. 
+
+Ms. Johnson: Thank you for your help, Dr. Smith.
+
+[End of visit]
+
+*This script is for illustrative purposes only and should not be used to diagnose or treat any medical conditions. Always consult a healthcare provider for medical advice.*

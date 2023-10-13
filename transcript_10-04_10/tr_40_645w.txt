@@ -1,0 +1,59 @@
+Doctor: Good afternoon, how can I assist you today?
+
+Patient: Good afternoon, Doctor. I'm not feeling well. I've been lethargic lately and have constant headaches. I thought it was just a flu, but it’s been about two weeks now.
+
+Doctor: I'm sorry to hear that, let's see what we can do to get you feeling better. Have you noticed any other symptoms? A fever, body aches, loss of appetite, or anything else?
+
+Patient: Well, I haven’t noticed a fever, but there are body aches, especially in the mornings. And I'm not too hungry. 
+
+Doctor: Alright, is there a particular time of day you feel the worst? 
+
+Patient: Usually in the evenings, right before going to bed.
+
+Doctor: Have you noticed any change in your sleep patterns, like difficulty falling asleep or waking up in the middle of the night?
+
+Patient: Yeah! Actually, I've been waking up at odd hours, that's never really been an issue before.
+
+Doctor: Alright, could you tell me about your general lifestyle? Your eating habits, exercise routines, work stress or other mental stressors, smoking habits, alcohol consumption, and so on?
+
+Patient: I'm a software engineer, so most of my day is spent seated in front of a computer. I try to exercise at least three times a week, mostly cardio. My eating habits are not exactly the best. Work is rather stressful, and I sometimes have a glass of wine or two in the evening to unwind. I quit smoking a year ago.
+
+Doctor: Can you tell me a little bit more about your daily diet?
+
+Patient: I usually skip breakfast and lunch mostly consists of quick snacks or fast food. Dinner is usually home-cooked, but there are times when I order takeaway.
+
+Doctor: I understand. Well, it appears the symptoms you're experiencing might be due to fatigue coupled with stress and poor diet. However, I'd like to run a few tests to rule out any underlying condition. Would that be fine with you?
+
+Patient: Yes, that sounds like a good idea.
+
+Doctor: Alright, we are going to do a complete blood count, ESR, liver function tests, kidney function tests, thyroid function tests, and vitamin B12 and D3 tests. We also need to get a complete urine examination done. 
+
+Patient: Okay. That sounds detailed. When would the results be available?
+
+Doctor: Typically, it takes about 24-48 hours for these tests to come back. I suggest that you also take some time off work to rest. Also, remember to stay hydrated, and maybe start slowly incorporating healthier meals into your diet.
+
+Patient: Alright, I will try my best. 
+
+Doctor: Good, also try to keep stimulation to a minimum in the evenings, it could be affecting your sleep. I mean, try to reduce your screen time, lessen alcohol consumption and avoid caffeine.
+
+Patient: I see. That could be a contributing factor. I do have a cup of coffee quite late in the evening. 
+
+Doctor: Well, that could potentially be a disruptive factor to your sleep hygiene. Cutting back may prove helpful. Also, try to make your bedroom a calm, quiet, and dark space to promote better sleep.
+
+Patient: I never really thought that my daily routine could be affecting my health so much. 
+
+Doctor: It's never late to start making changes for the better. Our bodies are incredibly adaptive, and you should begin to see improvements quite soon. We will wait for your results before making any further diagnosis or treatment plans. However, lifestyle changes can already give you relief and boost your overall health. 
+
+Patient: That sounds great. I will start making the changes. Thank you, Doctor. 
+
+Doctor: You're welcome! Remember, it’s small, consistent changes that make a big difference. So, take it one step at a time. 
+
+Patient: Thank you for your time, Doctor.
+
+Doctor: It was my pleasure. We'll contact you as soon as your test results are available. Until then, take care of yourself. 
+
+Patient: Thank you, Doctor. Goodbye.
+
+Doctor: Goodbye, and get well soon!
+
+(End of consultation)

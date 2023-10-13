@@ -1,0 +1,65 @@
+Doctor (Dr.): Good afternoon! How are you feeling today?
+
+Patient (Pt.): Good afternoon. I feel a bit under the weather.
+
+Dr.: I’m sorry to hear that. Can you tell me a bit more about what you're experiencing?
+
+Pt.: Sure. I’ve been having a headache, persistent fatigue, and I feel a little feverish.
+
+Dr.: I see. When did you first start noticing these symptoms?
+
+Pt.: About three to four days ago.
+
+Dr.: Does your headache occur at a particular time during the day?
+
+Pt.: Mostly in the afternoon. It starts off as a minor annoyance and by evening it gets really bad.
+
+Dr.: Okay. Has there been any changes to your lifestyle recently? Changes in diet, sleep, or stress levels?
+
+Pt.: Now that you mention it, I have been under quite a bit of stress with work lately. As for diet, I've been eating as usual, though.
+
+Dr.: I see. Stress can sometimes trigger headaches and make you feel unwell. Remember, it's essential to take breaks and manage stress healthily. Now, about the fatigue, is it all day or more towards the end of the day?
+
+Pt.: It is throughout the day, but it gets worse in the afternoon and evening, I guess in line with the headaches.
+
+Dr.: Right. Have you had any other symptoms, like a runny nose, sore throat, cough or difficulty in breathing?
+
+Pt.: No, nothing like that. Just the headache and fatigue.
+
+Dr.: Alright. Have you recently travelled? 
+
+Pt.: No, I’ve been mostly at home since the pandemic.
+
+Dr.: Understood. I'm going to perform a few checks now: your temperature, blood pressure, and throat. And I'd like to order some blood tests. The headaches and fatigue may be due to a number of reasons, so these tests will help us narrow down any potential causes and rule out infections.
+
+Pt.: Sounds good. I'd really like to figure out what's going on.
+
+[Doctor performs basic checkup]
+
+Dr.: Your blood pressure is a little high and temperature indicates you've a mild fever. Let’s get a blood draw done; our technician will help you with that shortly.
+
+Pt.: Alright. So what do we do until we get the test results?
+
+Dr.: In the meanwhile, ensure you're getting enough rest and maintaining hydration. Try to include some relaxation techniques in your routine: deep breathing, yoga, or meditation can be beneficial. Also, limit intake of caffeine or alcohol, as these are common headache triggers. 
+
+Pt.: I see. Can I take any medication for the headaches?
+
+Dr.: Yes, you can take over-the-counter pain relievers like ibuprofen. Follow the instructions on the package for dose recommendations. However, if the headaches persist, we'll need to explore further medications or therapies.
+
+Pt.: Okay, understood.
+
+Dr.: Good. If the fatigue and headaches persist or worsen, or if you develop any other concerning symptoms like chest pain, severe vomiting, or difficulty in breathing, seek immediate medical help. 
+
+Pt.: I will, thank you. 
+
+Dr.: We should have your lab results within the next few days. Following that, we can discuss next steps based on the findings. 
+
+Pt.: That works for me. Is there anything else that I need to be aware of now?
+
+Dr.: Not at this time. If you have any further questions or concerns, don't hesitate to reach out or schedule an appointment to meet. 
+
+Pt.: Alright, thank you, Doctor.
+
+Dr.: You're welcome. Take care and get some rest. We'll speak soon.
+ 
+[END OF APPOINTMENT: Duration - 15 minutes]

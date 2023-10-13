@@ -1,0 +1,56 @@
+Patient: Mary Howard
+Doctor: Dr. Susan Jones
+
+[The patient enters Dr. Susan Jones's office]
+
+Dr. Jones: (DJ): Good morning, Mary. Nice to see you again. How can I help you today?
+
+Mary Howard (MH): Morning, Dr. Jones. I have been feeling a bit off lately. Quite fatigued, actually, and I think I might have a fever.
+
+DJ: I see. Let's start with the basics. Could you tell me about your symptoms in a bit more detail? And have you taken your temperature?
+
+MH: Sure. I have been feeling unusually tired in the past couple of days- even after sleeping. My appetite is not the same as well. As for my temperature, I think it was around 100 degrees last night.
+
+DJ: Alright, thank you for the information. We'll have a more thorough checkup shortly. Just to be thorough, have you been experiencing any other symptoms? Any cough, shortness of breath, or any kind of pain?
+
+MH: Not really. I may have had a slight headache yesterday. But, aside from the fatigue and temperature, I haven't noticed anything else.
+
+DJ: Very well. Let's get your vitals checked and have a more thorough assessment. 
+
+[Dr. Jones checks Mary's vital signs. A nurse arrives to take blood pressure and temperature]
+
+Nurse: Ms. Howard, your blood pressure is a bit on the high side-140/90. And your temperature is 100.4 degrees Fahrenheit.
+
+DJ: Given the elevated temperature and expressed feelings of exhaustion, I'd like to run some tests to rule out possible causes. We might need to do a Complete Blood Count to check for things like anemia or infection, a thyroid function test to determine the efficiency of your thyroid, and possible screening for diabetes as well.
+
+MH: Oh, I see. Diabetes and thyroid problems do run in my family, so I suppose it's better to be safe.
+
+DJ: It's always better to be proactive, indeed. Now, moving on, could you provide some more information about your lifestyle? How's your diet and sleep pattern? Do you smoke or drink? And how often do you exercise?
+
+[Mary says a little about her lifestyle]
+
+MH: I normally get around 8 hours of sleep each night and try to maintain a balanced diet. I don't smoke, rarely drink alcohol. As for exercise, I walk almost every day since I'm working from home now.
+
+DJ: Great. A healthy lifestyle can often prevent many health issues or conditions. For now, the fatigue and fever you're feeling might be due to a mild infection or could be stress-related. 
+
+DJ: Now, regarding your elevated blood pressure, it is slightly concerning. Hypertension could lead to several critical health problems. But since it's just an isolated reading, we won't jump to conclusions. 
+
+MH: Oh, I see. Maybe it's stress, or it's just a one-time thing. But I understand I need to pay attention to this.
+
+DJ: Absolutely. I would recommend you monitor your blood pressure regularly, cut down on sodium intake if it's too high in your diet, and continue your regular exercising.
+
+DJ: As for your current symptoms, pending the test results, I'll prescribe some medication to help reduce your fever and relieve your fatigue. Additionally, I recommend plenty of fluids and rest.
+
+MH: That sounds good to me, Dr. Jones. I'll be sure to follow your advice.
+
+DJ: That's great, Mary. Do come back for a follow-up after the results of your tests have arrived. If need be, we might consider some lifestyle adjustments or different treatment options. But, don't worry. I think what you're experiencing is something that we can manage.
+
+MH: Thank you so much, Dr. Jones. I appreciate your help.
+
+DJ: You're most welcome, Mary. Feel free to contact the clinic or me anytime if you have any other concerns or if your condition worsens. We're here to assist you. You can go to the front desk for your prescriptions and test orders now.
+
+MH: Alright, thank you, Dr. Jones. I'll make sure to do that.
+
+[End of consultation, Mary exits the office]
+
+TA: 15 minutes

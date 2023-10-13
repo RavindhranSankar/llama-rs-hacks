@@ -1,0 +1,61 @@
+Doctor: Good afternoon. I am Dr. Smith. How can I assist you today?
+
+Patient: Hi, Dr. Smith. I've been feeling weak and feverish since last week, it's been really disturbing my daily routine.
+
+Doctor: I'm really sorry to hear that. Feverish as in running high temperature?
+
+Patient: Yes, exactly. It fluctuates, but mostly it's really high, around 101 degree Fahrenheit.
+
+Doctor: That's quite high. I need to know your medical history, have you ever experienced such symptoms before or are you currently under treatment for any condition?
+
+Patient: No, this is the first time I'm suffering from persistent fever. I am not under treatment for any specific condition at the moment.
+
+Doctor: Alright. Besides fever and weakness, have you noticed any other symptoms?
+
+Patient: I lose my appetite at times, and I have also been experiencing headaches now and then. I also feel dizzy and lightheaded sometimes.
+
+Doctor: Sorry to hear you're feeling this way. Do you have any known allergies?
+
+Patient: No, I'm not allergic to anything as far as I know.
+
+Doctor: Okay. Have you been exposed to someone with similar symptoms before you got sick?
+
+Patient: Now that you mention it, my coworker had similar symptoms last week.
+
+Doctor: I see. Let's take a more detailed look at this. We'll have to run some tests but before we move there, I want to check your blood pressure and heart rate. Let's also check your lungs, throat and Ears. Can you roll up your sleeve?
+
+Patient: Sure, I'm ready.
+
+[Checks vital signs]
+
+Doctor: Your blood pressure and pulse rate are stable. The throat seems a bit inflamed. We would need to conduct a few tests to diagnose it correctly.
+
+Patient: Okay, Doctor. What kind of tests do you suggest?
+
+Doctor: I will recommend a blood test, urine test, and a throat culture test to identify the cause of your fever and other symptoms. It might be an infection or something else, these tests will give us a clear picture.
+
+Patient: Alright, I understand. Will I go now for these tests?
+
+Doctor: Yes, please. Our nurse will guide you on where you need to go for your tests.
+
+[Nurse arrives and guides the patient to the respective departments for each test]
+
+[After the tests]
+
+Doctor: Your test results show that you have a strep throat infection which is causing your fever and other symptoms.
+
+Patient: What is the treatment plan, Doctor?
+
+Doctor: We will put you on a course of antibiotics for about 10 days to clear up the infection. Plenty of rest is also crucial at this time. Make sure to drink lots of fluids to stay hydrated and help your throat feel better. 
+
+Patient: And when should I return for a check-up?
+
+Doctor: Please come back after you finish the course of antibiotics. However, if symptoms do not improve within a few days, or if they get worse, I want you to contact the office right away. It is extremely important you finish the entire course of treatment to fully deal with the infection.
+
+Patient: Alright, Doctor. I will follow your instructions. Thank you.
+
+Doctor: You're welcome. Remember to rest, hydrate, and take the medication properly. We'll see you back in about two weeks, unless you need to see me sooner. If you have any questions or concerns, don't hesitate to call the office.
+
+Patient: Sure, Doctor. Have a good day.
+
+Doctor: You too, take care.

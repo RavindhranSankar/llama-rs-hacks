@@ -1,0 +1,47 @@
+DOCTOR (Dr. Adams): Good morning, Mr. Johnson. How can I assist you today?
+
+PATIENT (Mr. Johnson): Good morning, Dr. Adams. I haven't been feeling well for the past week. A constant fatigue seems to be plaguing me and I also have occasionally been having acute headaches.
+
+Dr. ADAMS: I'm sorry to hear that, Mr. Johnson. When did you first start to notice these symptoms? 
+
+Mr. JOHNSON: Last Monday is when it all started, I believe. The fatigue was first, then the headaches started the following day.
+
+Dr. ADAMS: Let's start with the fatigue. Can you describe it for me? Has it been constant throughout the day or have there been specific times when you notice it more?
+
+Mr. JOHNSON: It seems to be constant. It's hard to get out of bed in the morning. I still manage to get to work, but it's like I have no energy whatsoever.
+
+Dr. ADAMS: What about your sleep pattern? Are you getting enough sleep at night or has there been a change in your sleep schedule?
+
+Mr. JOHNSON: I do struggle to fall asleep at times, but overall, I’ve been getting about 7 hours of sleep every night, which was normal for me prior to this.
+
+Dr. ADAMS: Okay, and how about your headaches? Can you describe them - where they occur, their intensity, whether they come on gradually or suddenly?
+
+Mr. JOHNSON: They usually happen at the front of my head; the force of them varies. They come quite suddenly, without warning. The intensity typically eases after some time, but they’re quite excruciating when they hit.
+
+Dr. ADAMS: I see, and is there a specific time of the day when they tend to occur?
+
+Mr. JOHNSON: No, they’re quite random. Sometimes they happen in the morning, sometimes in the evening. There doesn't appear to be a pattern.
+
+Dr. ADAMS: Thank you for the detailed information. Now, allow me to ask - do you experience any other symptoms, like fever, dizziness or nausea?
+
+Mr. JOHNSON: Not fever or dizziness, but I did feel nauseous twice over the weekend after the headaches.
+
+Dr. ADAMS: Noted. Have you made any recent changes in your diet, lifestyle or medication that could possibly contribute to these symptoms?
+
+Mr. JOHNSON: Well, I’ve tried to maintain a healthy diet, don't smoke or drink, and maintain a regular exercise routine. No new medications either.
+
+Dr. ADAMS: Alright Mr. Johnson, I appreciate all of this information. Let's do a couple of tests to get a clearer picture of what might be causing these headaches and fatigue. I think we should start with a full blood count, a liver and kidney function test, and a thyroid function test. Depending on the results, we may order further tests. How does that sound?
+
+Mr. JOHNSON: That sounds like a plan, doctor. 
+
+Dr. ADAMS: Excellent. I'll have the nurse come in shortly to draw your blood. We should have the results in the next few days. Once we have those, we can discuss possible treatment options.
+
+Mr. JOHNSON: That sounds good, doctor. Thank you for your time.
+
+Dr. ADAMS: You're welcome, Mr. Johnson. We'll do our best to get to the bottom of this. Feel free to call the clinic if you have any other concerns or if your symptoms worsen.
+
+Mr. JOHNSON: I will, doctor. Thank you again.
+
+Dr. ADAMS: Take care for now, Mr. Johnson. We'll talk soon.
+
+[END OF TRANSCRIPT]

@@ -1,0 +1,61 @@
+Patient: Hello Dr. Wilson.
+
+Dr Wilson: Hello James. How are you feeling today?
+
+Patient: Oh, I'm not feeling that well today, doctor.
+
+Dr Wilson: I'm sorry to hear that. Could you elaborate? Where are you in discomfort and since when?
+
+Patient: I've been feeling down for the last few weeks. There's no physical discomfort per se but lately, it has been tough for me to focus on my work, feeling lethargic, poor appetite, and I can't seem to get a good night's sleep anymore.
+
+Dr Wilson: I see. Have there been any changes in your daily routine lately? Change in working hours, diet, or perhaps relationship issues, that kind of thing?
+
+Patient: Well, my job has been pretty stressful lately.
+
+Dr Wilson: Maybe that could be contributing to these symptoms. I'll carry out some diagnostic tests to rule out any physical illnesses. Then, I would recommend you see a mental health professional.
+
+Patient: That sounds frightening, doctor. I'm not sure if I'm ready for that.
+
+Dr Wilson: I understand your concerns, James. However, it's important to remember that mental health is just as vital as physical health. And there's no need to worry - any conversations you have with a therapist are confidential.
+
+Patient: Alright, I understand now. So, what sort of tests would you be carrying out?
+
+Dr Wilson: We'd do some blood tests to check if you've any deficiencies, maybe check your thyroid levels as they could also contribute to lethargy. Depending on those results, I may also recommend a sleep study to understand your insomnia better.
+
+Patient: I see. That sounds quite thorough.
+
+Dr Wilson: It's important to get to the root of the problem to figure out the best course of action. Is there any other health issue that's bothering you at present?
+
+Patient: Now that you mention it, I have noticed some slight pain in my lower back. I thought it might be due to my sedentary job but the pain doesn't subside even after a good night's rest.
+
+Dr Wilson: I see. And how often are you experiencing this pain?
+
+Patient: It's been everyday for the past 2 weeks or so.
+
+Dr Wilson: And on a scale of one to ten, how would you rate the pain?
+
+Patient: It's not excruciating, more of a discomfort. I'd say about a 5.
+
+Dr Wilson: Alright. We will do a physical examination to understand the cause. In the meantime, improving your sitting posture, incorporating some stretching exercises or yoga could help alleviate the discomfort. Remember, prolonged sitting can negatively affect your lower back's health.
+
+Patient: I’ll keep that in mind, thank you.
+
+Dr Wilson: It was my pleasure. We'll schedule the blood tests and I’ll send an order to the lab. You’ll be able to go there at a time that is convenient for you. 
+
+Patient: Okay, sounds good. 
+
+Dr Wilson: Do you have any other queries, James?
+
+Patient: No doctor. I think you have covered everything. 
+
+Dr Wilson: Excellent, James. If symptoms worsen before your next visit, please do not hesitate to call the clinic. Remember, your health is our priority. 
+
+Patient: Thank you very much, Dr. Wilson. Your explanation was reassuring.
+
+Dr Wilson: It's my job, James. Take care and we'll see you soon for the diagnostic tests. 
+
+Patient: Thank you, Dr. Wilson. Goodbye.
+
+Dr Wilson: Goodbye, James. Stay healthy.
+
+As the patient left, Dr. Wilson recorded the consultation details and prescribed diagnostic tests to further assess the patient's condition. She wrote a referral for a mental healthcare specialist to delve deeper into his lethargy and lack of focus. She was conscious that there was likely more to unravel, but for now, the first steps had been taken, assuring the patient that he wasn't alone in trying to resolve his health issues. After the documentation was complete, she prepared herself for the next patient, confident in knowing she'd provided the best care possible for James.

@@ -1,0 +1,81 @@
+Doctor: Good morning, Mr. Jones. How are you today? 
+
+Patient: Well doctor, not so well. That’s why I’m here.
+
+Doctor: I understand. Just before we get into the details of why you're here, let me quickly access your charts. In the meantime, how's your day been so far?
+
+Patient: It's been okay, apart from the discomfort.
+
+Doctor: Alright, let's dive into that. Can you tell me a bit more about what's been bothering you?
+
+Patient: I’ve been experiencing a constant headache, fever and cold sweats for the past few days. I feel generally unwell. My appetite has also decreased.
+
+Doctor: I'm sorry to hear that you're feeling this way, Mr. Jones. Can you tell me when these symptoms started?
+
+Patient: I first noticed the headache about four days ago, but the fever started just two days ago.
+
+Doctor: So the fever is a recent development. How high has it gotten?
+
+Patient: I’ve measured it at home a few times, and it’s been consistently around 39 degrees Celsius.
+
+Doctor: That is quite high. And the headaches - are they present all day, or do they come and go? Also, can you describe the intensity and location?
+
+Patient: The headaches are mostly in the front of my head. They are present all day but become severe in the evenings. Over-the-counter medicine just gives temporary relief.
+
+Doctor: Understood. You mentioned cold sweats. Are they all through the day or just when the fever spikes? 
+
+Patient: Mostly during the fever, especially at night.
+
+Doctor: As per your profile, you're not on any regular medication. Is that still the case?
+
+Patient: Yes, doctor. No regular medications or allergies.
+
+Doctor: Do you remember coming into contact with anyone sick in the past week or two?
+
+Patient: Not that I'm aware of, but my workplace is quite crowded, so it's a possibility.
+
+Doctor: Okay, it's critical to understand if this could be an infectious case. I will note for our records. Also, has there been any change in your daily routine or diet recently?
+
+Patient: No, doctor. Everything is as it usually is.
+
+Doctor: Alright. Now I'm going to examine you. Have you had a full night's sleep lately or is the discomfort disrupting your sleep?
+
+Patient: I've been sleeping less because of the night sweats and headaches.
+
+Doctor: That must be rather difficult. Let me do a quick examination.  I'm going to listen to your heart and lungs first. 
+
+Patient: Sure, doctor.
+
+[Short break]
+
+Doctor: Your heart and lungs sound normal. Now I'll check your throat, glands and reflexes. 
+
+[Short break]
+
+Doctor: All seem normal. I’m going to recommend a few tests. Given your symptoms, this could be a variety of things, including the flu or a bacterial infection. We can take a throat swab for a rapid strep test and also do blood tests to get a better assessment.
+
+Patient: Okay doctor, I see. I just want this discomfort to go away. You think it's something serious?
+
+Doctor: It's too early to jump to any conclusions. My primary goal is to ensure I treat you for the right thing, and for that, these tests are essential. We’ll know more once we have the results.
+
+Patient: That makes sense to me, doctor.
+
+Doctor: Our staff will guide you through the testing process. You should have the results in a couple of days. I can treat the fever and headaches symptomatically for now, so you feel a bit better.
+
+Patient: That would be great, doctor.
+
+Doctor: Excellent, here's a prescription for paracetamol to manage the fever and pain. Take it as indicated and make sure you’re drinking plenty of fluids and getting as much rest as possible.
+
+Patient: Thank you, doctor. I appreciate the help.
+
+Doctor: You're welcome, Mr. Jones. We'll call you as soon as your test results are ready. But if your symptoms get worse or if you have any concerns, don't hesitate to contact us earlier.
+
+Patient: Will do, doc.
+
+Doctor: Take care, Mr. Jones. I hope you’ll start feeling better soon.
+
+Patient: Thanks, doctor. Have a good day.
+
+Doctor: You too, Mr. Jones. Goodbye.
+
+[End of transcript]

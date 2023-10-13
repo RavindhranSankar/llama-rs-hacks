@@ -1,0 +1,65 @@
+Doctor: Good morning, Mrs. Anderson. Please make yourself comfortable.
+
+Mrs. Anderson: Good morning, Doctor. Thank you.
+
+Doctor: What brings you in today?
+
+Mrs. Anderson: I’ve been feeling unusually weak and tired for the past week.
+
+Doctor: Can you tell me more about your symptoms? 
+
+Mrs. Anderson: Sure, generally, I can work all day and still have energy for my evening walks. However, lately, I've just been wanting to lie down. My work performance is also suffering due to constant fatigue.
+
+Doctor: I see. Any other symptoms apart from fatigue and weakness? Perhaps loss of appetite, unexplained weight loss, constipation or frequent urination?
+
+Mrs. Anderson: None that I can think of. I mean, my appetite is slightly less than usual but nothing noticeable.
+
+Doctor: Alright. Have you ever experienced this kind of exhaustion before? 
+
+Mrs. Anderson: Not without reason, doctor. I used to get tired but those were days when I overworked or didn’t sleep well.
+
+Doctor: Do you have any pre-existing conditions? Any regular medication that you are on?
+
+Mrs. Anderson: Well, I have high blood pressure. I take an amlodipine tablet every morning.
+
+Doctor: Has there been any recent change in your medication or your blood pressure readings?
+
+Mrs. Anderson: No, not that I am aware of. 
+
+Doctor: What about generally lifestyle changes? Changes in diet, sleeping patterns, stress levels, or physical activity?
+
+Mrs. Anderson: I have been working more hours and sleeping less because of some recent deadlines at work, so there is some added stress.
+
+Doctor: That might be leading to your fatigue. Stress and lack of sleep can often cause physical exhaustion. I believe investigations should be performed to rule out any underlying conditions that may be causing your fatigue. With your permission, we'll run some blood and thyroid tests to rule out anemia or thyroid issues. 
+
+Mrs. Anderson: Yes, I think that's a good idea, Doctor.
+
+Doctor: Moving on to your diet, are you getting enough fruits, vegetables, proteins, and whole grains? 
+
+Mrs. Anderson: I think so. I make sure I eat a balanced diet, but with my recent schedule, I’ve had more fast food than I would like.
+
+Doctor: It’s crucial to maintain a healthy diet, especially when you're stressed. Eating nutrient-rich food can help combat fatigue. Also, it’s essential to stay hydrated throughout the day.
+
+Mrs. Anderson: I will make sure to work on that, doctor.
+
+Doctor: Good. Also, regular physical activity, even short walks or light exercises, can work wonders in boosting energy levels. Do you exercise regularly?
+
+Mrs. Anderson: I usually go for a walk after work, but with the extra work, I haven't been consistent.
+
+Doctor: Try to maintain some form of physical activity. It will help you lower your stress levels and improve your sleep quality.
+
+Mrs. Anderson: I'll try to get back to my routine then. 
+
+Doctor: That's good. Apart from this, please ensure you're taking short breaks during work hours to just breathe and refresh. It would also help if you could try some relaxation techniques like meditation or yoga.
+
+Mrs. Anderson: I'll definitely give that a try. 
+
+Doctor: Wonderful. Nurse, kindly arrange for Mrs. Anderson's blood and thyroid tests. Also, schedule a follow-up appointment next week for the test results.
+
+Nurse: Yes, Doctor. 
+
+Doctor: Mrs. Anderson, take care and try to make those lifestyle modifications. Don't push yourself too hard at work. Health always comes first.
+
+Mrs. Anderson: Thank you, Doctor. I’ll keep that in mind. 
+
+(End of transcript)

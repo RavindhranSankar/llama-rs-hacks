@@ -1,0 +1,65 @@
+General Physician: Good morning. Please come in.
+
+Patient: Good morning, Doctor.
+
+General Physician: Please take a seat and make yourself comfortable. So, how can I assist you today?
+
+Patient: I've not been feeling well for the past couple of days. I've been experiencing weak muscles, fatigue, and occasional migraines.
+
+General Physician: I'm sorry to hear that. How severe are these symptoms? Rate them on a scale of 1 to 10 for me, with 10 being unbearable.
+
+Patient: I would say around 6 for fatigue and weak muscles and around 8 for the headaches.
+
+General Physician: That sounds serious. I need to ask you more in-depth questions to get a clearer picture. When did you start experiencing these symptoms?
+
+Patient: I started noticing them about a week ago. Initially I thought it was due to lack of sleep, but I took some days off from work and managed to get decent sleep yet the symptoms have persisted.
+
+General Physician: Alright. Apart from these, have you experienced any other symptoms like fever, nausea, or blurry vision?
+
+Patient: No doctor, but sometimes my heart beats very fast, and I feel out of breath.
+
+General Physician: Noted. Have you had any significant changes in your diet, workout routine, work or sleep schedules recently?
+
+Patient: I can't think of anything significant. My workload has been a bit heavy lately though, and I often eat my dinner late.
+
+General Physician: Alright, stress and late dinners could contribute to your symptoms. Now, let's discuss medical history. Do you have any known allergies or any ongoing medical conditions?
+
+Patient: I'm allergic to seafood. I don't have any ongoing medical conditions that I know of.
+
+General Physician: Do you have a family history of any chronic illnesses such as diabetes, heart disease, migraines, or high blood pressure?
+
+Patient: My father has high blood pressure, and my mother suffers from migraines.
+
+General Physician: Given your symptoms and family history, we should run some tests to rule out any serious conditions. Also, I will recommend having regular meals at proper times and adopting a stress management routine to start with. Depending on how your tests come back, we can adjust this plan: how does that sound?
+
+Patient: That sounds very reasonable, Doctor. Could you please let me know what kind of tests I'll need to undergo?
+
+General Physician: We'll start with a complete blood count, blood sugar test, thyroid function test, and electrolyte levels. These tests can provide insights about possible causes for fatigue and weak muscles. Further, an ECG might be required to understand the cause of increased heart rate.
+
+Patient: Should I come back with the test results later this week?
+
+General Physician: Yes, we can schedule a follow-up appointment once all the results are available. I do recommend you avoid heavy physical activity until we fully understand what's causing these symptoms.
+
+Patient: Sure, I'll do that. May I ask you if there's any immediate red flag I should look for?
+
+General Physician: If there is any sudden surge in headache, chest pain, vision problems, or if you faint, you need to seek immediate medical attention. Those could be signs of something seriously wrong.
+
+Patient: I understand, Doctor. I'll get these tests done and come back for the follow-up.
+
+General Physician: Great. Please make sure to eat regularly and try not to stress too much. If you have any further questions, feel free to ask.
+
+Patient: Thank you, Doctor. I think you covered everything.
+
+General Physician: It's my pleasure. I hope you start feeling better soon. Take care, and contact us if you need anything before our next appointment.
+
+Patient: I will, Doctor. Thanks for your help.
+
+General Physician: You're welcome. Have a nice day!
+
+Patient: You too, Doctor.
+
+Medical Assistant: (after patient leaves): Doctor, your next patient is ready.
+
+General Physician: Thank you. Please escort them in. 
+
+[END OF TRANSCRIPT]

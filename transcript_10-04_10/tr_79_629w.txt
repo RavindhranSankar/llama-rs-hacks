@@ -1,0 +1,47 @@
+Doctor: Good morning, Mr. Johnson! I’m Dr. Smith, the general physician. How can I assist you today?
+
+Patient: Good morning, Dr. Smith. I have been feeling generally unwell. It’s hard to pinpoint it, but I feel drained all the time, sluggish, and occasionally experience mild headaches.
+
+Doctor: I see, sorry to hear that you’re not feeling well. We will figure this out together. Can you tell me when these symptoms started?
+
+Patient: Approximately a couple of weeks ago. I thought it was just tiredness from overworking myself, but even after reducing my work hours and getting full nights of sleep, I still feel unwell.
+
+Doctor: It's good that you took measures to rest, but since the symptoms are persisting, it’s important to get you checked. Apart from tiredness and headaches, have you noticed any other changes in your health recently? 
+
+Patient: Not really. My appetite has been regular, and I haven’t noticed any significant weight loss or gain. My bowel movements also seem normal.
+
+Doctor: That's helpful information. Let's talk about your current lifestyle. What does your typical day look like in terms of diet, exercise, and work?
+
+Patient: I usually start with a healthy breakfast, mostly oatmeal, and a cup of coffee. Then I get to work, where my job involves a lot of sitting. I try to get up and walk around every hour or so. Lunch is usually a sandwich or salad, and dinner is whatever my wife cooks. We try to eat balanced meals with plenty of vegetables. 
+
+Doctor: That sounds pretty healthy. What about exercise?
+
+Patient: I haven’t prioritized exercise lately. I used to run frequently, but I’ve been too tired for intense activity recently.
+
+Doctor: It’s important to allocate time for some form of exercise even when you're busy. As we age, fitness plays a crucial part in maintaining our overall health. Regarding your symptoms, I'm going to conduct a thorough examination. I would like to check your vital signs and possibly suggest a few tests to rule out any underlying conditions causing your symptoms. But don't worry, we'll figure out how to make you feel better.
+
+[They conduct the physical examination]
+
+Doctor: Your vital signs seem normal, Mr. Johnson. I'd like to refer you for a Comprehensive Metabolic Panel and a Complete Blood Count test. These tests will give us more insight into your overall health. They will check for any imbalances, which could be causing your feeling of exhaustion.
+
+Patient: Okay, sounds good. I just want to get to the root of this tiredness.
+
+Doctor: I completely understand. Apart from these tests, I suggest you bring in some changes to your everyday life. Try to incorporate more physical activity into your routine. Simple things like going for a walk during your lunch break or taking the stairs can greatly benefit your health and energy levels. 
+
+Patient: I agree. I will definitely try to include more physical activities in my schedule.
+
+Doctor: Excellent. I’m also going to recommend you maintain a consistent sleep schedule. Trying to get at least seven to eight hours of sleep can significantly reduce feelings of fatigue.
+
+Patient: I will try to improve my sleep schedule and habits, Doctor.
+
+Doctor: Great! Now remember, Mr. Johnson, health is cumulative. The small decisions we make each day greatly affect how we feel in the long run. So, it's vital to take care of both our physical and mental health.  Please schedule a follow-up as soon as the test results come in.
+
+Patient: Sure, I will do that. Thank you, Doctor. Your advice has been very helpful.
+
+Doctor: I'm glad to hear that. Take care of yourself, Mr. Johnson, and remember, we're here for you. It was a pleasure meeting you and I look forward to our next appointment. Have a good day!
+
+Patient: Thank you, Dr. Smith. Good day to you too.
+
+[End of Consultation] 
+
+Word Count: 675

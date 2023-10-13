@@ -1,0 +1,60 @@
+Patient: Emma Stone
+General Physician: Dr. John Smith
+
+DR. JOHN SMITH: Good morning, Ms. Stone. How can I assist you today?
+
+EMMA STONE: I've been feeling really tired these days, and my head hurts quite often. I can't concentrate on work either.
+
+DR. JOHN SMITH: I see, I'm sorry to hear that Ms. Stone. We will get to the bottom of this. Can you tell me more specific symptoms you have been experiencing and for how long?
+
+EMMA STONE: Well, I switched jobs about two months ago, and since then, I've started feeling this way. I constantly feel exhausted even though I get 7-8 hours of sleep every night. Furthermore, I've been having massive headaches, almost every day after work. 
+
+DR. JOHN SMITH: I see. And how frequently do these headaches occur, and where do you feel the pain?
+
+EMMA STONE:  Mostly in the evenings. The pain is usually in the front of my head, like around the forehead.
+
+DR. JOHN SMITH: Alright. Let's continue with few more questions. Do the headaches have a sudden onset, or do they gradually build in intensity?
+
+EMMA STONE: They mostly build up gradually. The intensity increases if I don't take a break or lie down.
+
+DR. JOHN SMITH: How would you rate the intensity of your headache on an average, on a scale of one to ten, with ten being the most severe?
+
+EMMA STONE: I would say somewhere around seven. 
+
+DR. JOHN SMITH: That's quite high, Ms. Stone. Do you have any sensitivity to light or sound during these episodes?
+
+EMMA STONE: Now that you mention it, yes, bright lights do seem to bother me quite a bit.
+
+DR. JOHN SMITH: Thanks for that information. It's crucial in helping us find the right treatment course for you. Also, has there been any recent history of changes in your diet, appetite, weight, or sleeping patterns?
+
+EMMA STONE: Well, I've lost a little bit of weight, but I assumed it was due to work stress. My appetite fluctuates occasionally.
+
+DR. JOHN SMITH: Right. Stress can definitely take a toll on our bodies. Do you exercise regularly?
+
+EMMA STONE: Honestly, I've been too tired to exercise. Just the thought of exerting myself physically makes me feel more drained.
+
+DR. JOHN SMITH: I understand, fatigue can make it hard to stick with regular exercise. Let’s investigate this further. Have there been any changes in your mood or feelings? Such as feelings of sadness, hopelessness, or lack of interest in activities you once enjoyed?
+
+EMMA STONE: Not particularly, though I've become quite irritable due to these recurring headaches.
+
+DR. JOHN SMITH: Yes, persistent headaches can affect mood and daily functioning. Have you noticed any triggers - certain foods, activities, or stressors that seem to bring on these headaches?
+
+EMMA STONE: I haven't been able to identify any specific triggers. But I've noticed the headaches become more severe when I'm at work.
+
+DR. JOHN SMITH: This could indicate that stress or environmental factors at work may play a role. A more comprehensive examination is needed to get to the root cause. We might need to run some tests, including some blood work, to rule out potential medical conditions.
+
+EMMA STONE: Okay, I'm ready to do what it takes to get better. It's affecting my productivity, and I really want to get rid of these headaches.
+
+DR. JOHN SMITH: I understand how troubling this must be for you. Let's work together on this. I think effective stress management will be an essential part of your treatment plan. Exercise, while tiring initially, can actually help increase energy levels and reduce headaches by improving circulation.
+
+EMMA STONE: Really? I didn't know about that. 
+
+DR. JOHN SMITH: Yes, it’s true. Regular physical activity can have very positive health benefits. We'll make sure to tailor a plan that works for you. I'll also prescribe some safe over-the-counter medications that can help manage your headache symptoms in the meantime. 
+
+EMMA STONE: Thank you, Dr. Smith.
+
+DR. JOHN SMITH: You're welcome, Ms. Stone. Remember, healing takes time and patience. We'll find a solution. I'll see you again after you've done the tests. Get the rest you need, and take care.
+  
+EMMA STONE: Will do. Thanks a lot for your help, Dr. Smith. 
+
+DR. JOHN SMITH: It’s my pleasure, Ms. Stone. Have a relaxed day. We’ll see you soon.

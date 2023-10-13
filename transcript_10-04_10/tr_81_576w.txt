@@ -1,0 +1,61 @@
+[Medical Clinic - General Physician Office]
+
+Dr. Adams: Good afternoon, Mr. Johnson. How can I assist you today?
+
+Mr. Johnson: Good afternoon, Dr. Adams. Well, I've been experiencing some recurring headaches for the past few weeks, with some dizziness on and off.
+
+Dr. Adams: I see. I'm sorry to hear that. Can you please give me more information about these headaches? For instance, when do they usually occur? How long do they last?
+
+Mr. Johnson: Usually in the mornings when I wake up and sometimes in the afternoon. The headaches usually last about an hour.
+
+Dr. Adams: Are the headaches localized to a specific area or all over the head? 
+
+Mr. Johnson: Mainly at the front and the back. It's like a tension headache, I suppose.
+
+Dr. Adams: Does anything seem to trigger the headaches? Have you noticed any specific foods, activities or stressors that coincide with the headaches?
+
+Mr. Johnson: Hmm... not food for sure. But I’ve been under some stress at work and that might probably be a factor. 
+
+Dr. Adams: Stress can be a common headache trigger, yes. And you mentioned dizziness. Can you tell me a little more about that?
+
+Mr. Johnson: I feel lightheaded, especially when I stand up suddenly. It happens maybe once or twice a week.
+
+Dr. Adams: Very well. Have you noticed any other symptoms? Such as blurred vision, nausea, or weakness in any part of your body?
+
+Mr. Johnson: No, I haven't noticed any other symptoms. It’s just the headaches and occasional dizziness. 
+
+Dr. Adams: Okay, thanks for providing this information. Now, let's go over your medical history. Do you have any chronic conditions, like diabetes or high blood pressure?
+
+Mr. Johnson: No, nothing chronic, at least not that I'm aware of.
+
+Dr. Adams: Do headaches run in your family? Or any history of neurological conditions?
+
+Mr. Johnson: My sister gets migraines occasionally, other than that not really.
+
+Dr. Adams: How about your lifestyle? Do you smoke or consume alcohol? What about caffeine? 
+
+Mr. Johnson: I quit smoking two years ago. I do drink coffee, maybe two or three cups a day and occasionally some wine over the weekends.
+
+Dr. Adams: Alright, good job on quitting smoking! Just for completeness, how is your sleep quality? Any recent changes?
+
+Mr. Johnson: I think it's decent. I usually get about 6-7 hours of sleep. But I've been waking up with the headaches, so I suppose my sleep hasn’t been sound.
+
+Dr. Adams: That’s quite possible, disrupted sleep can indeed cause headaches and also make you feel dizzy when you wake up. I think a complete check-up would be necessary to rule out any possible causes and then we might be able to pinpoint why you've been having these symptoms. 
+
+Mr. Johnson: Alright, sounds good to me.
+
+Dr. Adams: We'll check your vitals, blood pressure and conduct a few blood tests initially. Depending on the results, we may follow up with additional tests or referrals. 
+
+Mr. Johnson: That seems reasonable. When should I do these tests?
+
+Dr. Adams: You can schedule them at your earliest convenience. Also, consider activities or techniques that could help manage your stress better.
+
+Mr. Johnson: Yeah, I should probably consider that.
+
+Dr. Adams: Remember, your health is number one priority. Please ensure to connect with me after conducting the tests. Also, don't hesitate to contact if the headaches become more frequent or severe.
+
+Mr. Johnson: I will, doctor. Thank you for your assistance.
+
+Dr. Adams: It was my pleasure, Mr. Johnson. Take care and I'll be looking forward to reviewing your test results.
+
+[End of Visit - General Physician]

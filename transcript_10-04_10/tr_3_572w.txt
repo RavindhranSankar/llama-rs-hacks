@@ -1,0 +1,57 @@
+Setting: Greenfield Health Center
+Time: 10:00 AM
+Attendees: Dr. David Fitzgerald (DF), Mrs. Jamie Wilkinson (JW)
+
+[Start]
+
+DF: (00:00) Good morning, Mrs. Wilkinson. How are you feeling today? 
+
+JW: (00:05) Hello, Dr. Fitzgerald. I'm not doing so well, I've been having persisting migraines related to my known sinusitis problem and it's getting worse.
+
+DF: (00:15) I'm sorry to hear that, Mrs. Wilkinson. Let's talk more about these migraines. How long have they been occurring, and do you notice any specific triggers?
+
+JW: (01:00) Well, they've been going on for about two weeks now. They often come on in the later part of the day, and I notice they get worse when I lie down.
+
+DF: (01:25) Noted. What about light or noise sensitivity during these migraine episodes? 
+
+JW: (01:50) Yes, I do feel sensitive to light, especially sunlight. Noise doesn't seem to affect me as much, but the pain definitely increases with light.
+
+DF: (02:20) Are you experiencing any other symptoms associated with the migraines?
+
+JW: (02:42) I sometimes have blurry vision, and a feeling of pressure in my face, specifically around my nose and eyes. It’s like a throbbing sensation.
+
+DF: (03:09) Got it. Now, these blurry vision episodes, are those only during the migraines or do they occur at other times as well?
+
+JW: (03:31) They primarily happen during the migraines. Sometimes they continue a while afterwards as well, but it’s not common.
+
+DF: (03:51) Understood. Let's switch gears to your sinusitis. Could you describe what you’re experiencing related to that?
+
+JW: (04:10) It's the usual: stuffy nose, pain around my eyes and cheekbones, and fatigueness. I also have post-nasal drip which is annoying me a lot.
+
+DF: (04:41) Thank you for sharing that, Mrs. Wilkinson. Let's do a brief physical examination to check for any obvious signs of an acute sinus infection. 
+
+[Physical Examination]
+
+DF: (07:15) Based on what I see, we're likely dealing with another bout of acute sinusitis brought on by allergens or a bacterial infection that also triggers your migraines. I suggest we treat both head-on with an occurrence-prevention manner.
+
+JW: (07:40) Okay, Doctor. What does that entail exactly?
+
+DF: (08:00) Firstly, I'll prescribe you a two-week course of antibiotics for any potentially present bacterial infection. To manage the migraines, let's use a Triptan, which constricts the blood vessels around the brain and relieves the pain.
+
+JW: (08:30) I see. What about the overall discomfort from the sinusitis?
+
+DF: (08:47) I'm going to recommend a sinus rinse kit which will help reduce the inflammation. Also, use a humidifier at night to keep your nasal passages moist and less prone to pain. If these steps don't improve the symptoms, we may consider other strategies down the line.
+
+JW: (09:22) That sounds like a plan, doctor. I will follow this regimen and see how it goes. When should I come back for a check-up?
+
+DF: (09:50) I would like to see you in about two weeks. That will give us some time to see how your body responds to the treatment. Also, Mrs. Wilkinson, please make note of any changes in your symptoms or any side effects from the medications, so we can discuss those at your next visit.
+
+JW: (10:19) Of course, doctor. I really appreciate your help. I really want to get better.
+
+DF: (10:32) It's my pleasure, Mrs. Wilkinson. Our goal is to help you feel better. I’ll see you in two weeks then. Have a good day.
+
+JW: (10:48) Thank you, doctor. Have a good day as well.
+
+[End]
+
+This transcript was digitally recorded and transcribed for accuracy and clarity.

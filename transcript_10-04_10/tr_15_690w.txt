@@ -1,0 +1,59 @@
+Doctor: Good morning, Mr. Johnson, how can I help you today?
+
+Patient: Good morning, doctor. I have been feeling fatigued and weak lately. Also, my appetite has decreased drastically since last week.
+
+Doctor: I'm sorry to hear that. Let's go further into detail about your symptoms. When did you start to notice this fatigue and loss of appetite?
+
+Patient: I think it started approximately two weeks ago. Initially, it was just a slight discomfort, but the fatigue has been increasing steadily.
+
+Doctor: Is your fatigue related to physical activity or is it constant throughout the day?
+
+Patient: It is constant. I feel tired all the time. Simple activities that I used to do without effort now drain me completely.
+
+Doctor: Have you noticed any other changes in your body? Perhaps changes in sleep patterns, headaches, frequent urination?
+
+Patient: Now that you mention it, I have been waking up frequently during the night. I initially thought it was due to stress, but it's becoming constant, and I haven’t been under a lot of stress recently. As for frequent urination, I haven't noticed anything unusual.
+
+Doctor: Do you notice any shortness of breath or heart palpitations, especially when lying down?
+
+Patient: I don’t think so. 
+
+Doctor: Do you also feel any muscle weakness, or experienced any involuntary weight loss recently?
+
+Patient: Well, I think I have lost some weight. I haven't been tracking it, but some of my clothes have started to fit me loosely.
+
+Doctor: It's important to classify these symptoms. They can occur due to various reasons, from lifestyle habits to chronic diseases. Have you encountered similar problems before?
+
+Patient: No, doctor. This is the first time I'm experiencing such problems and it's making me worried.
+
+Doctor: I understand your concern. Let's get a clearer picture of your lifestyle. Can you brief me about your daily routine?
+
+Patient: I don’t do anything out of the ordinary. I work in an office five days a week. Lately, I have been skipping breakfast due to loss of appetite. I try to have a light lunch and I'll usually have soup or salad for dinner. After work, I go for a short walk and generally go to bed around 11 pm.
+
+Doctor: How's your stress level at work and at home? High stress levels can often lead to loss of appetite and fatigue.
+
+Patient: My work environment is quite relaxed, doctor. But with these health issues surfacing, it’s causing some anxiety.
+
+Doctor: That's understandable, Mr. Johnson. Stress, even the distress caused by health issues, can affect the body. Now, let’s discuss your medical history. Have you had any major illnesses in the past?
+
+Patient: I had typhoid about five years ago. Besides that, I’ve maintained good health up until now.
+
+Doctor: And do you have a family history of chronic illness such as heart disease, diabetes or thyroid disorder?
+
+Patient: Not that I'm aware of. My parents lived relatively healthy lives.
+
+Doctor: That's good to know. Based on your symptoms and history, there are a few possible causes for your fatigue and loss of appetite. It could be onset of a viral infection, a hormonal imbalance, malnutrition or even psychological factors like mild depression. It could also be metabolic like onset of diabetes. I would recommend some tests to clarify the cause. This will help in planning an appropriate treatment.
+
+Patient: I understand, Doctor. Thank you for explaining everything in detail. I'm more than ready to do whatever tests necessary to figure out the cause.
+
+Doctor: Great. We'll start with a complete blood count, thyroid function tests, diabetes screening, and a liver function test. If necessary, we might consider further tests. Once we identify the underlying cause for these symptoms, we can focus on treating that cause. I’ll make the necessary arrangements for these tests.
+
+Patient: Thank you, doctor. I appreciate your help. 
+
+Doctor: You're welcome, Mr. Johnson. Please make sure to take care of yourself and refrain from any strenuous activities until we figure out the underlying cause of your symptoms. Once all the test results are in, we can discuss further treatment plans. 
+
+Patient: I will, doctor. Thank you for your time.
+
+Doctor: It's my pleasure. Make sure to set up your follow-up appointment at the front desk. Take care.
+
+Patient: Will do. See you soon, Doctor.

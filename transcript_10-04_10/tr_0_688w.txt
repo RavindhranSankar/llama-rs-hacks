@@ -1,0 +1,65 @@
+Dr. Palmer: Good afternoon, Michael. How are you feeling today?
+
+Michael: Hi, Dr. Palmer. I am not feeling too well. There are quite a few concerns that I would like to discuss.
+
+Dr. Palmer: I see. Let's get started right away so we can make sure to cover everything. Could you start by telling me the first issue you've been dealing with?
+
+Michael: Sure. The first issue is this persistent headache. It's been almost a week since I first noticed it.
+
+Dr. Palmer: I’m sorry to hear that. Can you describe the headache for me? Its intensity, location and whether it's constant or intermittent?
+
+Michael: It's a dull, throbbing pain, mostly on the right side. It is somewhat bearable in the mornings, but gets progressively worse as the day goes by. 
+
+Dr. Palmer: Have you noticed anything that tends to bring on the headaches or make them worse, such as stress or certain food?
+
+Michael: Not really. It tends to get worse if I read or sit in front of the computer for long stretches.
+
+Dr. Palmer: Very well. Let's look into that further. What's the next issue you wanted to discuss?
+
+Michael: For several months now, I've also been feeling very tired. I'm struggling to keep up with my regular routine.
+
+Dr. Palmer: I see. And how's your sleep? Could you be experiencing fatigue because you're not sleeping well?
+
+Michael: I considered that, but I get a good 8 hours of sleep most nights. Despite that, I wake up feeling exhausted.
+
+Dr. Palmer: That's concerning. Is there possibly a lot of stress or anxiety in your life currently?
+
+Michael: Work has been a bit challenging lately, but I wouldn't say it's any more stressful than it typically is.
+
+Dr. Palmer: Alright. I will note that as well. Any other concerns you would like to discuss?
+
+Michael: I'm also having discomfort in my stomach, especially after eating. It's like a cramping sensation that lasts for a couple of hours.
+
+Dr. Palmer: That's indeed concerning. Can you recall when this started happening? And is there a specific type of food that triggers this discomfort?
+
+Michael: It's been happening probably for about two months now. I can't pinpoint it to any specific food. It feels like it happens after having any meal.
+
+Dr: Palmer: Okay, let's explore that further as well. Is there anything else?
+
+Michael: I've also noticed some irregularities with my bowel movements. Do you think it could be related to the stomach discomfort?
+
+Dr. Palmer: It's entirely possible. Changes in bowel movements are often connected to digestive problems. Can you describe these irregularities?
+
+Michael: It has been mostly diarrhea, with the occasional constipation. It's been quite unpredictable, to be honest.
+
+Dr. Palmer: I understand. This could indeed be related to your stomach discomfort. We'll look into this as well. Is there anything else you’d like to bring to my attention?
+
+Michael: That covers my main concerns. 
+
+Dr. Palmer: Very well. Thank you for sharing all of this with me, Michael. It's essential to know the full picture in order to understand what's going on. Given what you've told me, we should consider a few diagnostic tests to further investigate. I'm thinking of ordering a blood test to investigate possible causes for your fatigue and headaches, along with a stool test to gain further insight into your digestive concerns.
+
+Michael: That sounds reasonable, Dr. Palmer. 
+
+Dr. Palmer: Also, I'd recommend you track your symptoms as much as possible over the next few weeks. It would be helpful to know if any identifiable patterns emerge. I'll also consider referring you to a specialist for further investigation into your digestive concerns.
+
+Michael: I appreciate your thoroughness, Dr. Palmer.
+
+Dr. Palmer: It's my job to help you feel better, Michael. For now, avoid overly spicy or oily foods and try to limit your screen time so as to not exacerbate the headaches. I'll arrange to get the blood and stool tests done and we will meet afterwards to discuss the results and the next steps forward.
+
+Michael: Alright, thank you Dr. Palmer. I really hope these tests can provide some answers.
+
+Dr. Palmer: I understand, Michael, and I'm hopeful too. I'll see you soon for our follow-up. Take care until then.
+
+Michael: Thank you, Dr. Palmer. 
+
+[End of Consultation]

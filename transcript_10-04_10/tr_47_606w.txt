@@ -1,0 +1,47 @@
+Dr. Smith: Good morning, Mrs. Johnson. How have you been since our last appointment?
+
+Mrs. Johnson: Good morning, Dr. Smith. I've been feeling generally okay, but I've been having some occasional dizziness and fatigue.
+
+Dr. Smith: I see. Why don't we start from the beginning, can you tell me more about this dizziness and fatigue? When did these symptoms started?
+
+Mrs. Johnson: They started about two weeks ago. I just suddenly felt dizzy one morning when I was getting up from bed and have felt the same many times since then. I've also been feeling really tired, even when I've had a good night's sleep.
+
+Dr. Smith: I understand. And on a scale from 1-10, 10 being the worst, how would you rate these experiences?
+
+Mrs. Johnson: The dizziness, I'd say is about a 6. It's worse when I've been sitting or lying down, but once I get moving, I start to feel a little better. As for the tiredness, it's around a 7, I guess. That fatigue just stays with me throughout the day.
+
+Dr. Smith: Okay, that's good to know. Have you experienced any blurred vision, headaches, or a ringing in your ears?
+
+Mrs. Johnson: No, not that I can think of. Maybe the occasional headache, but nothing severe.
+
+Dr. Smith: Understood. Have you been feeling any additional stress or changes in your daily routines? Sometimes these symptoms can be tied to certain lifestyle factors which we might need to consider.
+
+Mrs. Johnson: Yes, I've been under a lot of stress at work lately. I guess, I've been skipping meals too due to the increased amount of work.
+
+Dr. Smith: Stress can certainly have an impact on our wellbeing. Have there been any recent changes in your appetite or weight? 
+
+Mrs. Johnson: I haven't noticed any changes in my weight, but my appetite hasn't been great same as my meal routine.
+
+Dr. Smith: I see. This fatigue and dizziness can certainly be linked to your stress, lack of proper nutrition and quality sleep. However, I'd like to run a few routine labs to rule out any other potential causes such as anemia or a thyroid condition. Would that be okay?
+
+Mrs. Johnson: Yes, that sounds fine.
+
+Dr. Smith: Good, we will draw some blood for those lab tests. I'd also like you to monitor your symptoms a bit more closely for the next couple of weeks. If you notice any changes or if things get worse, please reach out immediately. 
+
+Mrs. Johnson: I'll do that, thank you.
+
+Dr. Smith: Also, it's crucial that we manage your stress and nutrition. Engaging in relaxing activities, regular exercise, and a healthy diet can really help. A dietitian could provide you with a proper meal plan that works around your schedule. I can refer you to one if you'd like?
+
+Mrs. Johnson: That could be helpful, yes. I'll try to make those changes.
+
+Dr. Smith: That's great to hear. You can come in for a follow-up in two weeks, Mrs. Johnson. In the meantime, please do reach out if anything changes or you need help. And don't forget to take a moment each day for yourself, even if it's just a fifteen-minute break to breathe and disconnect from work. Let’s aim for a better balanced lifestyle, okay?
+
+Mrs. Johnson: I will strive to do that, Dr. Smith. Thank you for your help.
+
+Dr. Smith: You're welcome. It’s important we work together on this. Take care, Mrs. Johnson.
+
+Dr. Smith's assistant outside: Have a nice day, Mrs. Johnson. Here are the lab slips for your tests. Please remember to check in with us for your follow-up appointment and if you need any clarification or help.
+
+Mrs. Johnson: Thank you so much. Have a nice day!
+
+-- End of session ---

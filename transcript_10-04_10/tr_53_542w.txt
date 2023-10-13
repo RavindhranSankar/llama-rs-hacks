@@ -1,0 +1,61 @@
+[Doctor]: Good morning, Mr. Clark. How can I assist you today?
+
+[Patient]: Good morning, Doctor. I've been experiencing some flu-like symptoms and extreme fatigue over the last few days. 
+
+[Doctor]: I'm sorry to hear that, Mr. Clark. Can you tell me specifically when these symptoms began?
+
+[Patient]: Yes, roughly around 3-4 days ago. I thought it was just a common cold but it isn't getting better.
+
+[Doctor]: Thank you for sharing this. Could you provide detailed descriptions of your symptoms? Kindly include the severity, as well as specific timings for any recurrent symptoms.
+
+[Patient]: I feel feverish, random chills, and have been coughing constantly. My body feels weak, especially when I try to wake up in the mornings. I usually feel worse late at night.
+
+[Doctor]: Have you taken your temperature? Do you know if you had a fever?
+
+[Patient]: Yes, it ranged from 100-101 degrees Fahrenheit on several occasions.
+
+[Doctor]: I see, that could indeed be a cause for concern. Have you experienced any other symptoms? This could include headaches, trouble breathing, sore throat, or loss of taste or smell.
+
+[Patient]: Well now that you mention it, I have had a headache and my throat’s been really sore. But I haven't noticed any loss of taste or smell.
+
+[Doctor]: Alright, let's continue investigating the matter. Have you been in close contact with anyone who’s been ill recently?
+
+[Patient]: Not that I know of. I've been working from home and avoiding crowdy places.
+
+[Doctor]: Okay. Given the pandemic situation, we need to exhaust all possibilities. Also, considering your symptoms, we might have to consider testing for COVID-19. 
+
+[Patient]: I see. That's concerning but I understand it's important.
+
+[Doctor]: Indeed. We must consider all scenarios. Apart from this, have you experienced any changes in appetite or digestion?
+
+[Patient]: Now that you mention it, my appetite has slightly reduced over the past few days. 
+
+[Doctor]: Yes, sickness can often lead to reduced appetite. Do you have any pre-existing medical conditions?
+
+[Patient]: I am diabetic but it’s under control through medication.
+
+[Doctor]: Thanks for this information. Typically, certain symptoms like fever, coughing or fatigue could suggest a possibility of an upper respiratory tract infection. However, in light of the ongoing pandemic, it is crucial to rule out COVID-19. 
+
+[Patient]: I understand. So, what’s the next step?
+
+[Doctor]: Given your symptoms, I would recommend a COVID-19 test for you. At the same time, I will also prescribe some medications to help alleviate your symptoms.
+
+[Patient]: Do I need to be admitted?
+
+[Doctor]: As of now, you can quarantine at home while we await the test results. However, if your symptoms worsen or you begin to feel breathless, don't hesitate to contact us immediately. Here's an informational booklet about managing body ailments at home. 
+
+[Patient]: Thank you, doctor.
+
+[Doctor]: I'm here to help. Let's get through this together. I'll have the reception schedule your test and I'll let you know about the results as soon as they're available. 
+
+[Patient]: Thanks for your aid, doctor. I appreciate it.
+
+[Doctor]: That's my job, Mr. Clark. Be sure to take the prescribed medicines, rest and stay hydrated. We'll touch base again once we have the results. Take care, and don't hesitate to reach out if you need further assistance.
+
+[Patient]: Yes, of course. Thanks again, doctor!
+
+[Doctor]: It was nice meeting you, Mr. Clark. Take care!
+
+[Patient]: Same to you, Doctor.
+
+[End of consultation]

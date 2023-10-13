@@ -1,0 +1,75 @@
+Dr. Andrews (DA): Good morning, Mrs. Thompson, how are you today?
+
+Mrs. Thompson (MT): Good morning, Dr. Andrews. I am not feeling very well.
+
+DA: I'm sorry to hear that, can you tell me what seems to be the issue?
+
+MT: Well, I have been experiencing constant headaches for about two weeks now, frequent fatigue- just can’t seem to shake it off, doctor.
+
+DA: When you mention a constant headache- is it all day, or does it come and go? 
+
+MT: It usually starts in the afternoon and lasts throughout the evening. 
+
+DA: Alright, is the pain more on one side, or is it diffuse?
+
+MT: I would say it is diffused, but more intense at the back of my head.
+
+DA: Okay, have you noticed any triggers? Stress, specific foods, bright lights, something like that?
+
+MT: I haven't noticed any particular trigger, Doctor. 
+
+DA: Alright. And are there any accompanying symptoms like nausea, dizziness or blurred vision with your headache?
+
+MT: Yes, Doctor. I do feel dizzy when the headache gets severe. And some days, it's accompanied by nausea.
+
+DA: Sorry to hear that, Mrs. Thompson. Do you have a history of headaches or anyone in your family tree who suffers from migraines or other similar conditions?
+
+MT: My mother used to have migraines quite often.
+
+DA: I see. Thanks for that information. It's quite helpful. As for fatigue, because you mentioned it's also a concern, is it a general sense of tiredness throughout the day or only during specific times?
+
+MT: I feel tired the moment I wake up, mostly feeling exhausted throughout the day. 
+
+DA: That must be tough for you. Have you experienced any changes in your sleep pattern recently? 
+
+MT: Well, I've been having trouble sleeping lately. Always seem to wake up in the middle of the night.
+
+DA: I understand. What about changes in your diet, exercise, work stress levels or personal life? Sometimes these factors can contribute to both fatigue and headaches. 
+
+MT: I do have stress with work and personal life, but I try to maintain a healthy diet and regular exercise.
+
+DA: That’s good. But bear in mind, chronic stress can manifest itself in physical symptoms like the ones you've mentioned. Have you undertaken any steps to manage your stress levels? 
+
+MT: Not really doctor, except for a few deep breathing exercises from time to time.
+
+DA: Alright. Now let's switch gears a little bit. I would also want to ensure we don't overlook other potential causes. Are you taking any medications or supplements currently?
+
+MT: I am not taking any medications but I do take multivitamin supplements.
+
+DA: Okay, have you experienced any recent weight loss or gain?
+
+MT: No, my weight has been pretty much the same. 
+
+DA: How about your mood? Have you noticed any changes there?
+
+MT: I've been feeling down lately, especially with these persistent symptoms.
+
+DA: I understand how distressing the ongoing symptoms can be. Could these feelings be linked to your current work or personal stress, or is it a distinct feeling of depression?
+
+MT: I wouldn’t say depression doctor, but I have been feeling overwhelmed with things going on around me.
+
+DA: It's important to address these feelings also, Mrs. Thompson. Mental health massively influences our physical health. I think I now have a reasonable idea about your symptoms. My plan is to first do some basic tests, including blood work and possibly a brain scan to rule out any physical causes. If everything looks okay, we may need to consider stress or a possible migraine variant as a cause. I'd also strongly recommend exploring ways to manage stress and sleep problems, considering they can exacerbate your symptoms. Sometimes even meeting with a therapist can be beneficial.
+
+MT: That sounds like a plan, Doctor. Thank you.
+
+DA: It's my pleasure, Mrs. Thompson. I'll arrange for your tests. In the meantime, take care of yourself. I hope you feel better soon. We will figure this out together.
+
+MT: I appreciate your support, Dr. Andrews.
+
+DA: Anytime, Mrs. Thompson. Let's catch up next week to discuss your test results and our next steps.
+
+MT: Sounds good, Doctor.
+
+DA: Take care Mrs. Thompson. See you soon.
+
+MT: You too, Doctor. Goodbye.

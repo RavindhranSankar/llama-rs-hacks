@@ -1,0 +1,63 @@
+Doctor (Dr): Good morning Mr. Johnson, how are you today?
+
+Patient (P): Hi Doc, thanks for seeing me, I'm not too well.
+
+Dr: I'm sorry to hear that. Can you let me know what's been bothering you?
+
+P: I've been experiencing frequent severe headaches. It's been going on for almost a week now.
+
+Dr: I see, that must be very uncomfortable. Can you describe these headaches in more detail for me?
+
+P: Yes, of course. They usually start at the front of my head and then seem to take over my entire skull. They are persistent and the intensity varies but they are quite painful.
+
+Dr: I understand. Are there any accompanying symptoms such as sensitivity to light or sound, blurry vision, or nausea?
+
+P: Yes, I often feel nauseous and the headaches are exacerbated by bright lights and loud noises.
+
+Dr: Thank you for sharing these details. Have you noticed any pattern or triggers to these headaches? 
+
+P: I don't think there's a specific pattern, but they seem to be more frequent in the mornings and late evenings. I haven't noticed any specific trigger. 
+
+Dr: Have you taken anything to address the headaches?
+
+P: I have been taking over-the-counter pain medication but it doesn't seem to be helping much.
+
+Dr: That's important information. It's wise that you came in for an examination. Let's go ahead and check your vital signs first. 
+
+[Doctor proceeds with routine vital checks such as blood pressure, pulse, temperature]
+
+Dr: Everything appears normal here. It's worth noting though, that these are only surface level checks and will not necessarily point to the specifics of your condition. We may need to conduct some tests. 
+
+P: That's fine Doc, I just want to get to the bottom of this.
+
+Dr: I understand your concern. I think it would be beneficial to start with an MRI scan to investigate any potential neurological issues. 
+
+P: Sounds serious, but if it helps diagnosing, I'm all for it.
+
+Dr: It's important not to jump to conclusions or worry excessively at this point. These are standard procedures to exclude severe conditions. 
+
+P: Ok, thanks for reassuring. I hope we find out soon.
+
+Dr: I hope so too, Mr. Johnson. If the MRI comes back normal, we can then start looking into other possibilities like chronic migraines, which are often accompanied by nausea and sensitivity to light and sound.
+
+P: That makes sense.
+
+Dr: Furthermore, I recommend keeping a headache diary. Make a note every time a headache occurs, its duration, intensity on a scale from 1-10, and anything that may have triggered it. 
+
+P: I will do that, sounds like a sensible idea.
+
+Dr: Great, this can help us identify any patterns and better understand the situation. Also, do remember to have regular meals, drink plenty of water, and rest. Managing stress levels can also play a role in headache relief.
+
+P: Thank you, Doc. I'll try that.
+
+Dr: I'll arrange for the MRI and we'll see what the results are. If these headaches persist or get worse in the meantime, please come back immediately or go to the ER. 
+
+P: I understand and I really appreciate your help, Doctor.
+
+Dr: It's my job to assist you, Mr. Johnson. Take care of yourself and I'll see you after the test results are in. We'll figure it out together. 
+
+P: That's comforting to hear, thank you.
+
+Dr: You're welcome, Mr. Johnson. Have a good day.
+
+P: You too, Doctor.

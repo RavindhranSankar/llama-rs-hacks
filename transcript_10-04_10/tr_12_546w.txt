@@ -1,0 +1,70 @@
+Dr. Smith (DS): Good morning, Mr. Anderson. Hope you are feeling fine today?
+
+Mr. Anderson (MA): Good morning, Dr. Smith. I've been better.
+
+DS: I'm sorry to hear that. What seems to be the symptoms?
+
+MA: I've been having this recurring headache and feeling dizzy most of the times. 
+
+DS: How long has this been ongoing?
+
+MA: About a week I guess.
+
+DS: Mr. Anderson, could you tell me about your daily lifestyle? This includes your diet, drinking habits, and the amount of physical exercise you do. 
+
+MA: I try to do a rather balanced diet, indulge in some physical activities, and drink moderately.
+
+DS: And sleep? 
+
+MA: It’s been patchy. I’m having trouble falling asleep, and then mid-sleep I wake up.
+
+DS: Got it. Let's start by getting your vitals checked. Nurse, could you record Mr. Anderson's blood pressure and heart rate?
+
+[After taking vitals]  
+
+DS: Your blood pressure and heart rate seem within normal parameters. So let's delve deeper into your symptoms.
+
+MA: Okay.
+
+DS: Do your headaches occur at a specific time of the day?
+
+MA: Mostly during the early hours of the morning when I wake up and sometimes in the evening.
+
+DS: I see. Are the headaches in one specific location or all over?
+
+MA: It's mostly in the front of my head, right here (pointing to the forehead).
+
+
+DS: Are the headaches accompanied by any other symptoms like blurry vision, numbness in your limbs, or difficulty in speech?
+
+MA: Not exactly but I’ve noticed a significant change in my vision. It’s getting blurrier. I thought it’s due to overworking.
+
+DS: That’s an important observation, Mr. Anderson. Blurred vision coupled with recurring headache and dizziness could be an indication of a few conditions that we’ll need to investigate. It might be symptoms of your body's reaction to stress, malnutrition, dehydration, low blood sugar, anaemia or even sinus issues.
+
+MA: I see.
+
+DS: Are your meals balanced? Are you eating leafy greens, fruits, proteins, and are you hydrated throughout the day?
+
+MA: Could be better, I think. I’ve been a bit stressed with work lately so might be skipping meals more often than not.
+
+DS: I understand. Stress and irregular meals can cause such symptoms. It’s crucial that you maintain a balanced diet and keep yourself hydrated. Moreover, developing a routine for physical activities can help manage stress.
+
+MA: I’ll work on that.
+
+DS: Very well. I would like you to get a Complete Blood Count (CBC), blood glucose level test and an eye checkup to rule out any underlying issues. Also, we’ll monitor your symptoms for a few more days. If they persist, we might need to consider a neurologist's opinion.
+
+MA: Sure, doctor. Anything else I should do or be cautious about?
+
+DS: Try to maintain regular eating, sleep, and exercise patterns, reduce alcohol intake if possible, and take short breaks during work to relax your eyes and mind. Additionally, observe if there are any specific triggers for your symptoms and make a note of them. These could be lack of sleep, certain foods, or prolonged exposure to devices like laptops.  
+
+MA: I will do as advised, Dr. Smith.
+
+DS: Great, Mr. Anderson. I’d like to see you again in a week’s time or sooner if the symptoms persist or worsen. 
+
+MA: Understood, Doctor. Thank you.
+
+DS: You're welcome. Take care, Mr. Anderson.
+
+MA: You too, doctor.
+
+[Ends cordially, doctor leaves to attend to another patient.]

@@ -1,0 +1,53 @@
+Doctor: Good morning, Mr. Johnson. I'm Dr. Smith, a general physician. How may I help you today?
+
+Patient: Good morning, Dr. Smith. I've been feeling quite unwell for a few days now. 
+
+Doctor: I'm sorry to hear that. Could you please describe your symptoms in detail?
+
+Patient: I've been experiencing prolonged bouts of fatigue and I seem to get easily tired. I've also had a loss of appetite along with recurring headaches and a mild fever.
+
+Doctor: Okay, let me take some notes of your symptoms. Does your headache focus on a specific area of your head?
+
+Patient: Is seems to be mostly centered around the front and it's a constant dull ache. 
+
+Doctor: And how about your fever? How frequent is it and how high does the temperature get?
+
+Patient: Generally, the fever seems to spike in the evening. It stays around 100-101 degrees Fahrenheit.
+
+Doctor: I see. In addition to your symptoms, Mr. Johnson, I'd like to know more about your medical history. Do you have any chronic diseases such as diabetes or hypertension?
+
+Patient: Yes, I've been diagnosed with Type 2 Diabetes and I've been handling it through medication and diet for about 5 years.
+
+Doctor: Okay, so you are a diabetic. That is useful information. Now, let's talk about your lifestyle. What does your diet consist of? 
+
+Patient: I generally tend to eat a balanced diet. You know, plenty of fruits, veggies, lean meat. I also try to limit my intake of sugar, given my diabetes. 
+
+Doctor: That's great, and do you exercise?
+
+Patient: I try to walk for about 30 minutes each day. I used to go to the gym, but haven't been able to due to the fatigue recently. 
+
+Doctor: Alright. And how about your alcohol consumption and smoking habits?
+
+Patient: Oh, I don't smoke, and I drink alcohol very occasionally, mostly social drinking.
+
+Doctor: Good to know. Mr. Johnson, I am going to conduct a quick physical examination now. After that, I may recommend some blood tests to understand what's causing these symptoms.
+
+(During the physical examination, the physician takes his Blood Pressure, examines his eyes, ears and throat, listens to his heart and lungs, and palpates his neck, abdomen and limbs.)
+
+Doctor: I've made a note of some abnormalities, like your throat looks a bit inflamed and there's mild tenderness in your abdomen. We should get a blood test done for a complete blood count, fasting and postprandial blood glucose, liver function tests and thyroid function tests.
+
+Patient: Okay doctor, if you think it's necessary. When should I do these tests?
+
+Doctor: You can do these tests tomorrow morning. Meanwhile, please continue with your diabetes medication. And try having small, but frequent meals instead of heavy meals. This might help with your loss of appetite.
+
+Patient: Alright, I'll do that. How soon can we have the results for these tests?
+
+Doctor: Usually, the results come in about 24-48 hours. Please remember to bring those reports during your next visit or email them to me. 
+
+Patient: I will, doctor. Thank you for your time.
+
+Doctor: No problem at all, Mr. Johnson. That's what I'm here for. Please take care and let's hope we can get to the bottom of what's causing your symptoms soon. Have a good day.
+
+Patient: You too, doctor. Goodbye.
+
+Doctor: Goodbye, Mr. Johnson.

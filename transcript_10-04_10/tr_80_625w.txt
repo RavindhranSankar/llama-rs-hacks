@@ -1,0 +1,55 @@
+Dr. Robert: Good morning, Mrs. Johnson. How can I assist you today?
+ 
+Mrs. Johnson: Good morning, Dr. Robert. I've been having frequent headaches lately. They're quite intense and disrupting my daily routines.
+
+Dr. Robert: I see, sorry to hear about your discomfort. Let’s examine this situation in detail. Firstly, how would you rate these headaches on a pain scale of 1-10, with 10 being the most severe?
+
+Mrs. Johnson: Hmm, I'd probably go with 7 or 8. They're really bad, I've never experienced anything like these before.
+
+Dr. Robert: Understandable. To help me diagnose, I’ll ask you a series of questions. Please answer as accurately as possible. When did these headaches start?
+
+Mrs. Johnson: The headaches started out of nowhere about two weeks ago.
+
+Dr. Robert: Have you noticed any specific triggers that might initiate these headaches? For example, specific activities, foods, or stress?
+
+Mrs. Johnson: Not that I can think of, no. They seem to come and go at random times.
+
+Dr. Robert: Have you been maintaining a healthy lifestyle recently? This includes exercising, eating a balanced diet, and getting sufficient sleep.
+
+Mrs. Johnson: Honestly, doc, I can't say I've been as active as I should be. It's hard balancing work and my daughter's school schedule. As for my meals, they're not as balanced as they should be. I get adequate sleep though, about 7 hours on average.
+
+Dr. Robert: That’s something we can look at improving for your overall well-being. Now, when you get these headaches, is the pain centralized in one part of your head or does it spread out?
+
+Mrs. Johnson: It's usually throbbing around my temples but sometimes it spreads out too.
+
+Dr. Robert: Noted. Do you consume caffeine or alcohol regularly? These can sometimes trigger headaches.
+
+Mrs. Johnson: Only a cup of coffee every morning, and seldom alcohol.
+
+Dr. Robert: I see. Now, let's talk about the intensity of the pain. Do your headaches ever get progressively worse as the day goes on?
+
+Mrs. Johnson: Not necessarily, the intensity varies randomly. Some are terrible right from the get-go, while others grow gradually throughout the day.
+
+Dr. Robert: Alright. Have you tried using any over-the-counter medications?
+
+Mrs. Johnson: Yes, I've been taking ibuprofen, but it doesn't seem to be helping much.
+
+Dr. Robert: Alright. Let's move on to family history. Do family members on either side have a history of severe headaches or migraines?
+
+Mrs. Johnson: Yes, my mother used to get severe migraines. But she passed some years ago.
+
+Dr. Robert: I'm sorry to hear about that. Mrs. Johnson, it appears you may be experiencing migraines. Your symptoms and family history suggest this. However, to ensure a proper diagnosis, I'm going to refer you to a neurologist. They may require an MRI scan or other tests for confirmation. Meanwhile, I'll prescribe a different medication for pain relief.
+
+Mrs. Johnson: Okay, that sounds good. I'm willing to do anything to alleviate them. They've been quite unbearable.
+
+Dr. Robert: I understand your concern, Mrs. Johnson. We will do our best to manage this situation. The referral should be ready by tomorrow. Please ensure you maintain a healthier lifestyle, as it can also contribute to reducing the frequency and intensity of these headaches. I’ll write a prescription for the pain relief too; you can collect it on your way out.
+
+Mrs. Johnson: Alright, Dr. Robert. I'll do as you suggest. Thank you for helping me.
+
+Dr. Robert: Of course, Mrs. Johnson. Please don't hesitate to call my office if your headaches worsen or if you have side effects from the new medication. Take care and we'll see you soon for the follow-up appointment.
+
+Mrs. Johnson: Certainly. Thank you again, Dr. Robert. See you at the next appointment.
+
+Dr. Robert: You're welcome. Goodbye, and take care, Mrs. Johnson.
+
+(They both greet each other one last time as Mrs. Johnson leaves the room, marking the end of their 15-minute appointment)

@@ -1,0 +1,71 @@
+Doctor: Good morning, Mr. Baker. How can I help you today?
+
+Patient: Good morning, Doc. I’ve been dealing with persistent headaches for the last couple of weeks. 
+
+Doctor: I'm sorry to hear that. Could you tell me a bit more about these headaches? Are they located in a specific part of your head?
+
+Patient: They're mainly in the front, and sometimes on the sides as well. It feels like a tight band around my head.
+
+Doctor: I see. How often do they occur, and how long do they last?
+
+Patient: They come almost every day, around mid-afternoon, and last for a couple of hours.
+
+Doctor: Do you notice anything that triggers them, like certain foods, alcohol, caffeine, lack of sleep, stress, or changes in the weather?
+
+Patient: Not really. But they usually start after I've been working on the computer for a few hours.
+
+Doctor: Is the pain severe?
+
+Patient: Sometimes. It tends to get worse as the day goes by.
+
+Doctor: Any sensitivity to light or sound, nausea, or vision disturbances?
+
+Patient: No, just the headaches.
+
+Doctor: Okay, have you taken anything for the pain?
+
+Patient: Just over-the-counter stuff, like Tylenol. It helps a bit, but not much.
+
+Doctor: Have you ever had similar headaches in the past?
+
+Patient: Not quite like these. I've had occasional headaches, but they weren't as frequent.
+
+Doctor: Does anyone in your family have a history of frequent headaches, or any neurological disorders?
+
+Patient: Not that I know of.
+
+Doctor: How has your sleep been? And how about your diet and stress levels?
+
+Patient: My sleep is average, I guess, about six hours. To be honest, work has been quite stressful recently. I haven’t been eating very well either because I’m too busy.
+
+Doctor: Does physical activity make your headache better or worse?
+
+Patient: I haven't really noticed any difference.
+
+Doctor: All right, we should consider a few things. Given that your headaches are frequent and localized in the front and sides, you may be experiencing tension-type headaches, especially as they correlate with your work-related stress and prolonged periods at the computer. It could also be due to eye strain. 
+
+Patient: Is it serious?
+
+Doctor: Tension-type headaches and eye strain aren't usually a cause for concern. However, it’s important to address them as they're affecting your quality of life. 
+
+Patient: So, what should I do?
+
+Doctor: First, I would advise that you take regular breaks from computer work and practice some relaxation techniques. It’s crucial to take care of your diet and try to ensure you’re getting enough sleep. Over-the-counter medications can help temporarily, but they cannot treat the root cause. You should also get a vision test to rule out any contributing factors. 
+
+Patient: That sounds fair. Anything else?
+
+Doctor: If these headaches continue despite these adjustments, we may need to explore other options. There are specific medications for tension-type headaches. But we should try these lifestyle modifications first. I'm going to recommend you to a physiotherapist who can show you exercises to reduce muscle tension too. 
+
+Patient: All right, that makes sense. Thank you for your help.
+
+Doctor: You’re welcome. It was nice to see you again, and I’m confident that you will start feeling better soon. Let's schedule a follow-up appointment, say, in a month? 
+
+Patient: That works for me.
+
+Doctor: Great. In the meantime, please call if the headaches worsen or if you develop new symptoms. 
+
+Patient: Will do. Thanks, Doc.
+
+Doctor: Take care, Mr. Baker.
+
+[Length of conversation: 15 minutes]

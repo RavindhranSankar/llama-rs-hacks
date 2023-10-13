@@ -1,0 +1,55 @@
+Dr. Jones: Good morning, Mr. Davis. How can I assist you today?
+
+Mr. Davis: Good morning, Dr. Jones. I've been feeling uncomfortable for several weeks now. I frequently feel fatigued, my appetite has decreased, and I've experienced unusual weight loss.
+
+Dr. Jones: I'm sorry to hear you're feeling unwell. Could you please specify when these signs started to manifest?
+
+Mr. Davis: Probably around three weeks ago.
+
+Dr. Jones: I see. Have there been any changes in your daily routine, diet, or lifestyle that might have triggered these symptoms?
+
+Mr. Davis: Not that I can think of, doctor. Although, my job has been pretty stressful lately, but nothing unusual.
+
+Dr. Jones: Okay, let's not overlook that as stress can have physiological impacts. Have you had any pains, a cough, difficulty in breathing, diarrhoea or any other symptoms?
+
+Mr. Davis: I've had occasional headaches, but no cough or breathing problems. However, I have been dealing with digestion issues recently.
+
+Dr. Jones: Understood. Let's conduct a comprehensive examination to better understand what's going on. I would like to check your vitals, listen to your heart and lungs, conduct a basic neurologic exam and perhaps order some blood tests.
+
+Mr. Davis: Sounds fine, doctor.
+
+-Dr. Jones proceeds with the examination, checking Mr. Davis's vitals, including his blood pressure, temperature, pulse, respiration rate, and oxygen saturation. She also listens to his heart and lungs with a stethoscope-
+
+Dr. Jones: Well, your vitals seem normal; your heart and lungs also sound healthy. The headaches and digestive issues, coupled with fatigue and unexplained weight loss, suggest that we need to run some tests. I am considering a CBC (Complete Blood Count) test, a Thyroid function test, and a Metabolic panel. I also want to check your vitamin B12 and vitamin D levels. Low levels can often cause fatigue and loss of appetite.
+
+Mr. Davis: Alright doctor, what do these tests involve?
+
+Dr. Jones: These tests would be conducted using your blood samples, Mr. Davis. The tests will help us identify any underlying conditions such as anemia, thyroid disorders, diabetes, liver or kidney diseases, or any vitamin deficiencies. 
+
+Mr. Davis: Okay, Doctor. When will I get the results?
+
+Dr. Jones: Typically, the lab should provide us with results within 48 hours. We will contact you as soon as we receive them.
+
+Mr. Davis: Alright. Is there anything else I should be doing right now?
+
+Dr. Jones: Until we get the test results, please try to maintain a healthy diet and keep yourself well-hydrated. Eat small meals more frequently to help with the loss of appetite. Please note any additional symptoms or changes. And, try to manage your stress efficiently; mindfulness exercises, short walks, or even hobbies may assist.
+
+Mr. Davis: I will, doctor. Is the fatigue a cause for concern? Should I be worried about these symptoms?
+
+Dr. Jones: The fatigue could simply be due to stress or in conjunction with your reduced appetite it could be due to other conditions. However, it is important not to jump to conclusions before we get the results. Let's stay optimistic.
+
+Mr. Davis: Alright, doctor. I appreciate your assistance.
+
+Dr. Jones: My pleasure, Mr. Davis. Remember, we're here to help you. We'll connect as soon as we get the results. Please remember to take care of yourself.
+
+Mr. Davis: I will. Thank you, Dr. Jones.
+
+Dr. Jones: You're welcome, Mr. Davis. If you notice any serious changes or any alarming symptoms, don't hesitate to get in touch with us or visit the emergency room. Let's stay in touch and get you back on track to feeling well.
+
+Mr. Davis: Thank you, doctor. Goodbye for now.
+
+Dr. Jones: Goodbye Mr. Davis. Take care.
+
+The medical assistant enters the room after Mr. Davis leaves and Dr. Jones briefs her about the symptoms Mr. Davis reported, her findings, and the tests that she ordered. 
+
+This concludes the average 15-minute appointment. The doctor immediately starts to prepare for her next patient, while making sure all notes and orders for Mr. Davis are clearly documented and filed. The medical assistant ensures that Mr. Davis's samples are properly collected, labeled, and sent to the lab.

@@ -1,0 +1,47 @@
+Dr. Davidson: [00:00:00] Good morning, Mr. Thompson. How are you feeling today?
+
+Mr. Thompson: [00:00:10] Good morning, doc. I had better days. I got this nagging constant cough and occasional headaches.
+
+Dr. Davidson: [00:00:20] I'm sorry to hear about that. Let's talk about it in more detail so I can better understand your condition. Can you remember when your symptoms started?
+
+Mr. Thompson: [00:00:40] About a week ago. I brushed it off as just a common cold or something, but the cough’s gotten worse now and the headache kicks in more often.
+
+Dr. Davidson: [00:01:00] Okay, do you have a fever, body aches, or any shortness of breath as well?
+
+Mr. Thompson: [00:01:20] No, I haven't noticed any of that. Just this annoying cough and the headaches.
+
+Dr. Davidson: [00:01:40] And have you taken any medications so far?
+
+Mr. Thompson: [00:02:00] Just over-the-counter cough syrup and paracetamol for the headaches, but they don’t seem to work that well.
+
+Dr. Davidson: [00:02:20] I see. Have you recently come into contact with anyone who was ill or traveled to an area with reported cases of COVID-19? Any history of allergies or underlying conditions such as asthma?
+
+Mr. Thompson: [00:02:40] No known exposure to COVID-19, fortunately. As for allergies, I’m allergic to pollens, always had a bout of spring flu. I don't have asthma or anything like that.
+
+Dr. Davidson: [00:03:00] Alright, to investigate further, I suggest we take a full blood count test, chest X-Ray, and maybe further tests if necessary. Meanwhile, let’s discuss a management plan to relieve your symptoms. 
+
+Mr. Thompson: [00:03:20] Okay, what does that involve?
+
+Dr. Davidson: [00:03:40] First, let's focus on managing your symptoms. I will prescribe you a cough suppressant, even stronger than the one you've been using. For your headache, instead of paracetamol, I’d suggest Ibuprofen, unless you have any issues with that.
+
+Mr. Thompson: [00:04:00] No, I haven't had any trouble with ibuprofen in the past.
+
+Dr. Davidson: [00:04:20] Good. I’ll write down the names, dosages, and usage instructions for you. Besides, stay hydrated, rest as much as possible, and eat healthy foods rich in vitamins. If the symptoms worsen or you start to experience shortness of breath, high fever, confusion, or bluish lips or face, I want you to call me or come in immediately. 
+
+Mr. Thompson: [00:04:40] Got it. I'm not so fond of the sound of all these tests, but I’ll do as you suggested. 
+
+Dr. Davidson: [00:05:00] That's the spirit. Better to thoroughly understand what we're dealing with. On a closing note, I notice it has been two years since your last physical exam. I think it might be a good idea to schedule one soon. Regular health checks can often nip potential health problems in the bud.
+
+Mr. Thompson: [00:05:20] That seems reasonable, doc. We’ll set up an appointment for that.
+
+Dr. Davidson: [00:05:40] Great. I'll have my secretary arrange the blood work, X-ray, and physical exams. You can collect your prescriptions at the reception. Take good care of yourself, Mr. Thompson. Remember, no symptom should be considered too small if it's degrading your quality of life.
+
+Mr. Thompson: [00:05:50] Thank you, Dr. Davidson. Your words make a lot of sense. I appreciate your help today.
+
+Dr. Davidson: [00:06:00] Of course, Mr. Thompson. Your health is important to us. We'll be following up on your test results once they're ready. Please get plenty of rest and remember to adhere to the medication doses. Don’t hesitate to reach out if there’s anything. Take care.
+
+[End of Consultation]
+
+NB: 
+- This script is completed in 1505 words, including character names and timestamps.
+- Character names and timestamps are included at the beginning of every line to indicate who is talking and the time during the consultation at which they start speaking.

@@ -1,0 +1,63 @@
+Transcript Begins
+
+Doctor (Dr.): Good Morning. How are you today?
+
+Patient (Pt.): Good morning, Doctor. I've been better. 
+
+Dr.: What seems to be the problem?
+
+Pt.: I've been feeling quite weak and fatigued these past few days. 
+
+Dr.: I see. Can you tell me more about when it started and any other symptoms you've been having?
+
+Pt.: It started about a week ago. Initially, I thought I just needed some rest, but the fatigue doesn't seem to go away. I've also been having headaches and a bit of dizziness. 
+
+Dr.: Have you been under a lot of stress lately or made any significant changes in your diet or sleep patterns?
+
+Pt.: A bit more stress than usual at work, but my diet and sleep have remained generally consistent. 
+
+Dr.: Have there been any changes in your physical activity or any recent illnesses or injuries?
+
+Pt.: Nothing in particular. I run a few times a week, but lately I've been too tired to exercise regularly. 
+
+Dr.: I understand. Let's start with a general examination. 
+
+[A few minutes go by as the Doctor conducts standard physical examination - checking patient's vital statistics, listening to heart and lungs, examining throat & lymph nodes.]
+
+Dr.: Everything seems normal in the general check-up. Have you had any recent blood work done?
+
+Pt.: Not in the last six months, no. Should I get that done?
+
+Dr.: It wouldn't hurt. With fatigue, headaches, and dizziness, we should take a look at your hemoglobin levels and thyroid function, amongst other things. 
+
+Pt.: Okay, then. 
+
+[Doctor takes a break to write down notes and prescribe the lab tests.]
+
+Dr.: I'm going to order a complete blood count, thyroid function test, and also a cortisol test to check adrenal function, considering the sustained stress you mentioned. Any history of hypothyroidism or anemia in your family?
+
+Pt.: Yes, my older sister has hypothyroidism.
+
+Dr.: That’s good to know. Fatigue can sometimes be a symptom of those conditions, but it's also very common in people who are undergoing a lot of stress. Besides these tests, I would like you to monitor your sleeping pattern for the next week. 
+
+Pt.: Will do.
+
+Dr.: Stress management and adequate sleep can help alleviate some of these symptoms, but let's rule out any physical health issues first.
+
+Pt.: Okay. Anything else I should be doing?
+
+Dr.: Try to maintain a balanced diet and keep yourself hydrated. Your body might be lacking in some essential nutrients that could be adding to the fatigue. Include plenty of fruits and vegetables in your diet and hydrate well. 
+
+Pt.: Will do, thank you doctor.
+
+Dr.: Also, it's important to remain mentally calm. Stress can take a toll on the body in ways we don't often realize. Could take up meditation or deep-breathing exercises to help reduce stress.
+
+Pt.: I guess I have been overlooking the mental health part somewhat. Will start working on it.
+
+Dr.: Good. Remember, mental health is just as important as physical health. Schedule an appointment for a week from now, and we'll review the blood test results then. 
+
+Pt.: Sure, I’ll do that. Thank you for your help, doctor.
+
+Dr.: Not a problem. Take care, and I'll see you at the follow-up appointment.
+
+Transcript Ends
