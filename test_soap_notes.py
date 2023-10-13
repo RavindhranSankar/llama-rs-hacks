@@ -8,7 +8,7 @@ import fire
 from llama import Llama, Dialog
 import os
 
-transcript_path = "~/daily/llama/transcripts"
+transcript_path = "~/daily/llama-rs-hacks/transcript_10-04_10"
 txt_file = "tr_0_688w.txt "
 
 system_context = """
