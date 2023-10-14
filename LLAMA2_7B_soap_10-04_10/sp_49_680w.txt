@@ -1,0 +1,21 @@
+ Sure, here is the SOAP note for the patient's visit:
+Subjective:
+* The patient presented with a severe headache and nausea that have been persistent for a few days.
+* The patient's headache is constant, but it gets worse at night.
+* Bright lights and loud noises exacerbate the headache.
+* The patient's nausea is random and usually occurs in the morning.
+
+Objective:
+* The patient's vital signs were normal.
+* The patient had a complete blood count (CBC) that showed no abnormalities.
+* A CT scan of the brain was conducted and revealed no underlying issues.
+
+Assessment:
+* Based on the patient's symptoms and test results, it is likely that the patient is experiencing migraines.
+* The patient's job-related stress may be a contributing factor to the migraines.
+
+Plan:
+* The patient was prescribed pain relievers and anti-nausea medications to manage their symptoms.
+* The patient was instructed to keep a headache diary to track the timing, triggers, intensity, and duration of their headaches.
+* The patient was scheduled for a follow-up appointment in a week to monitor their progress and adjust their treatment plan as needed.
+* The patient was advised to avoid triggers such as bright lights and loud noises, and to practice stress-reducing techniques such as deep breathing or meditation.

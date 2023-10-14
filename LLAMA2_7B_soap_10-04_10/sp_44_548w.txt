@@ -1,0 +1,24 @@
+ Sure, here is the SOAP note for the patient's appointment with the doctor:
+Subjective:
+* The patient experienced a headache, persistent fatigue, and feverishness for the past 3-4 days.
+* The headache is located in the afternoon and gets worse over time.
+* The patient has been experiencing fatigue throughout the day, but it worsens in the evening.
+* The patient has not had any other symptoms, such as a runny nose, sore throat, cough, or difficulty in breathing.
+* The patient has been under stress lately due to work.
+
+Objective:
+* Temperature - 98.6°F (37°C)
+* Blood pressure - 130/80 mmHg (high)
+* Headache - mild
+* Fatigue - moderate
+
+Assessment:
+* The patient's symptoms are consistent with a viral infection, such as a cold or flu.
+* The patient's high blood pressure and mild fever may indicate an underlying condition, such as hypertension or an infection.
+* The patient's headache and fatigue may be related to stress and/or an underlying medical condition.
+
+Plan:
+* Order blood tests to rule out infections and determine the cause of the patient's symptoms.
+* Recommend over-the-counter pain relievers for the patient's headaches.
+* Encourage the patient to practice relaxation techniques, such as deep breathing, yoga, or meditation, to manage stress and improve overall well-being.
+* Instruct the patient to seek immediate medical attention if the symptoms worsen or if any other concerning symptoms develop.

@@ -1,0 +1,23 @@
+ Sure, here is the SOAP note for the patient encounter with Mr. Johnson:
+Subjective:
+* Prolonged bouts of fatigue
+* Loss of appetite
+* Recurring headaches
+* Mild fever (100-101 degrees Fahrenheit)
+* Throat inflammation
+* Mild tenderness in the abdomen
+
+Objective:
+* Blood pressure: Not elevated
+* Examination of eyes, ears, throat, heart, and lungs: No abnormalities found
+* Palpation of neck, abdomen, and limbs: Mild tenderness in the abdomen found
+
+Assessment:
+* Diabetes diagnosis
+* Possible underlying cause of symptoms: Unknown
+
+Plan:
+* Recommend blood tests for complete blood count, fasting and postprandial blood glucose, liver function tests, and thyroid function tests
+* Encourage small, frequent meals to help with loss of appetite
+* Continue with diabetes medication
+* Follow-up appointment scheduled for [insert date and time] to discuss test results and next steps.

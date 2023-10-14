@@ -1,0 +1,23 @@
+ Subjective:
+* The patient has been experiencing weak muscles, fatigue, and occasional migraines for the past couple of days.
+* The patient's symptoms are severe, rated at 6 for fatigue and weak muscles and 8 for headaches.
+* The patient has not experienced any other symptoms such as fever, nausea, or blurry vision.
+* The patient's heart beats very fast, and they feel out of breath.
+* The patient has a family history of high blood pressure and migraines.
+
+Objective:
+* The patient presented with weak muscles, fatigue, and occasional migraines.
+* The patient's heart beats very fast, and they feel out of breath.
+* The patient has not experienced any other significant symptoms.
+
+Assessment:
+* Based on the patient's symptoms, it is possible that they are experiencing a viral infection or a chronic condition such as chronic fatigue syndrome.
+* The patient's family history of high blood pressure and migraines suggests that they may be at risk for these conditions.
+* The patient's recent workload and late dinners could be contributing to their symptoms.
+
+Plan:
+* The patient will undergo a complete blood count, blood sugar test, thyroid function test, and electrolyte levels to rule out any serious conditions.
+* An ECG may be required to understand the cause of increased heart rate.
+* The patient should avoid heavy physical activity until the cause of their symptoms is fully understood.
+* The patient should eat regularly and try not to stress too much.
+* If the patient experiences any sudden surge in headache, chest pain, vision problems, or if they faint, they need to seek immediate medical attention.

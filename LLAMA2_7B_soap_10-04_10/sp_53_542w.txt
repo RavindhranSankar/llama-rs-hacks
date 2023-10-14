@@ -1,0 +1,23 @@
+ Subjective:
+* The patient, Mr. Clark, is experiencing flu-like symptoms, including fever, chills, coughing, and fatigue, as well as a headache and sore throat.
+* The patient's symptoms began approximately 3-4 days ago and have been worsening over time.
+* The patient's appetite has slightly reduced over the past few days.
+* The patient is diabetic but their condition is under control through medication.
+
+Objective:
+* The patient presented with a fever ranging from 100-101 degrees Fahrenheit on several occasions.
+* The patient experienced chills and coughing constantly.
+* The patient's body felt weak, especially when they tried to wake up in the mornings, and they felt worse late at night.
+* The patient had a headache and a sore throat.
+
+Assessment:
+* Given the patient's symptoms and recent exposure to COVID-19, it is possible that they have contracted the virus.
+* The patient's reduced appetite and fatigue could be related to their illness or their diabetes.
+* The patient's coughing and chills could be indicative of a respiratory infection.
+
+Plan:
+* Order COVID-19 test for the patient.
+* Prescribe medications to help alleviate symptoms.
+* Instruct the patient to quarantine at home while awaiting test results.
+* Advise the patient to contact the doctor immediately if their symptoms worsen or if they begin to feel breathless.
+* Provide the patient with an informational booklet on managing body ailments at home.

@@ -1,0 +1,24 @@
+ Sure, here is the SOAP note for the patient encounter with the doctor:
+Subjective:
+* Fatigue and weakness for approximately two weeks
+* Decreased appetite since last week
+* Frequent nighttime awakening
+* Increasing shortness of breath or heart palpitations, especially when lying down
+* Involuntary weight loss
+
+Objective:
+* Patient presents with a two-week history of fatigue and weakness
+* Decreased appetite
+* Frequent nighttime awakening
+* No shortness of breath or heart palpitations, but patient reports some weight loss
+
+Assessment:
+* Possible causes of patient's symptoms include onset of a viral infection, hormonal imbalance, malnutrition, or psychological factors such as mild depression
+* Metabolic disorders such as diabetes are also a possibility
+
+Plan:
+* Order complete blood count, thyroid function tests, diabetes screening, and liver function test
+* Consider further tests if necessary
+* Treatment will be based on underlying cause of symptoms
+* Patient is advised to refrain from any strenuous activities until tests are completed and cause is identified
+* Follow-up appointment scheduled for after test results are available.

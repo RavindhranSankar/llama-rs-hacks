@@ -1,0 +1,23 @@
+ Sure, here is the SOAP note for the patient's visit:
+Subjective:
+* Patient presents with symptoms of fatigue, headaches, and dizziness
+* Patient reports that symptoms started about a week ago
+* Patient has been experiencing weakness and fatigue, with no significant changes in diet or sleep patterns
+* Patient has also been experiencing headaches and dizziness
+
+Objective:
+* Vital signs within normal limits
+* Physical examination reveals no abnormalities
+* Doctor orders lab tests to rule out any underlying medical conditions
+
+Assessment:
+* Patient is experiencing symptoms of fatigue, headaches, and dizziness
+* Symptoms may be related to stress or an underlying medical condition
+* Doctor orders lab tests to determine the cause of symptoms
+
+Plan:
+* Lab tests to be conducted, including complete blood count, thyroid function test, and cortisol test
+* Patient to monitor sleep patterns for the next week
+* Patient to maintain a balanced diet and stay hydrated
+* Patient to practice stress management techniques, such as meditation or deep-breathing exercises
+* Follow-up appointment scheduled for one week later to review lab test results.

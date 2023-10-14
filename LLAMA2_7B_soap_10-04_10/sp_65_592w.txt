@@ -1,0 +1,25 @@
+ Subjective:
+* Patient has been feeling tired all the time, even after getting adequate sleep
+* Patient has lost weight unintentionally
+* Patient has been waking up frequently during the night
+* Patient has a low appetite
+* Patient has been feeling a little down lately
+
+Objective:
+* Patient has been experiencing fatigue for approximately one month
+* Patient has not experienced any recent changes in their daily routine or additional stress
+* Patient has not noticed any changes in their sleep patterns
+* Patient has been feeling a little down lately
+
+Assessment:
+* Patient's fatigue may be caused by an underlying medical condition, such as anaemia or thyroid issues
+* Patient's low appetite and weight loss may be related to their fatigue
+* Patient's frequent waking up during the night may be a sign of an underlying sleep disorder
+* Patient's depression screening results indicate a possible mental health issue
+
+Plan:
+* Conduct blood tests to rule out potential medical causes of fatigue, such as anaemia or thyroid issues
+* Conduct a Complete Blood Count, Thyroid Function Test, and Iron Level Test
+* Refer patient to a mental health professional for therapy to address potential depression
+* Discuss potential treatment options with patient once test results are available
+* Encourage patient to eat a balanced diet, maintain hydration, and get enough rest

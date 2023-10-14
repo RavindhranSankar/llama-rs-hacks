@@ -1,0 +1,21 @@
+ Subjective:
+* Patient (Mr. Brown) experiences chest discomfort and shortness of breath, along with occasional dizziness and fatigue.
+* Symptoms started about 2-3 weeks ago and have been occurring 2-3 times a week.
+* Patient finds it hard to perform daily tasks due to fatigue and shortness of breath.
+* Patient's blood pressure is currently being managed with Lisinopril, but he has been inconsistent with the medication lately.
+
+Objective:
+* Patient presents with chest discomfort and shortness of breath, which may indicate a cardiac condition.
+* Patient's history of heart disease in the family and his current symptoms suggest the need for further evaluation.
+* Patient's blood pressure is not well-controlled, which may be contributing to his symptoms.
+
+Assessment:
+* Based on the patient's symptoms and medical history, it is possible that he has developed a cardiac condition such as angina or coronary artery disease.
+* The patient's inconsistent blood pressure medication adherence may be contributing to his hypertension and increasing his risk for cardiovascular events.
+* Further evaluation, including an ECG and blood tests, is necessary to confirm the diagnosis and develop an appropriate treatment plan.
+
+Plan:
+* Conduct an ECG and blood tests to rule out any cardiac condition.
+* Initiate a thorough medication adherence plan to ensure the patient's blood pressure is well-controlled.
+* Schedule a follow-up appointment to review the test results and develop a comprehensive treatment plan.
+* Consider referring the patient to a counselor for stress management and psychological support.

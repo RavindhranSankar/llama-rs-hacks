@@ -1,0 +1,23 @@
+ Sure, here is the SOAP note for the patient's visit:
+Subjective:
+* Fever (101 degree Fahrenheit)
+* Weakness
+* Loss of appetite
+* Headaches
+* Dizziness/lightheadedness
+
+Objective:
+* Fever (101 degree Fahrenheit)
+* Inflamed throat
+
+Assessment:
+* Strep throat infection
+
+Plan:
+* Antibiotics for 10 days
+* Rest
+* Plenty of fluids to stay hydrated
+* Follow-up appointment in 2 weeks
+* Contact office if symptoms do not improve or worsen
+
+Note: The patient's medical history is non-existent, and they are not under treatment for any specific condition at the moment. The doctor suspects strep throat infection based on the patient's symptoms and performs tests to confirm the diagnosis. The patient is prescribed antibiotics and advised to rest and stay hydrated to alleviate their symptoms. A follow-up appointment is scheduled for two weeks to monitor the patient's progress.

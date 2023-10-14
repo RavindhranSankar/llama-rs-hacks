@@ -1,0 +1,21 @@
+ Sure, here is the SOAP note for the patient's consultation:
+Subjective:
+* The patient presents with symptoms of fatigue, headaches, body aches, and difficulty sleeping.
+Objective:
+* The patient has been experiencing lethargy and headaches for two weeks, with body aches especially in the mornings.
+* The patient has noticed a change in their sleep patterns, waking up at odd hours and having difficulty falling asleep.
+* The patient's daily routine includes working as a software engineer, exercising three times a week, and consuming a poor diet.
+* The patient has a history of smoking but quit a year ago.
+* The patient reports stress at work and in their personal life, and consumes alcohol and caffeine in the evening.
+
+Assessment:
+* Based on the patient's symptoms and medical history, it is possible that they are experiencing fatigue and headaches due to stress and a poor diet.
+* The patient's poor sleep hygiene and excessive screen time may be contributing to their difficulty sleeping.
+* Further testing, including a complete blood count, ESR, liver function tests, kidney function tests, thyroid function tests, and vitamin B12 and D3 tests, will be conducted to rule out any underlying conditions.
+
+Plan:
+* The patient will be advised to take time off work to rest and reduce stress.
+* The patient will be encouraged to incorporate healthier meals into their diet and to reduce their consumption of alcohol and caffeine.
+* The patient will be referred to a dietician for personalized dietary advice.
+* The patient will be advised to practice good sleep hygiene, including maintaining a dark, quiet, and cool bedroom, avoiding screens before bedtime, and practicing relaxation techniques.
+* The patient will be monitored for any changes in their symptoms and will be re-evaluated once their test results are available.

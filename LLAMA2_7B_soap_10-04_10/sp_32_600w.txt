@@ -1,0 +1,27 @@
+ Sure, here is the SOAP note for the patient's visit based on the provided transcript:
+Subjective:
+* Patient presents with a 3-day history of constant headache and high fever (39.5°C)
+* Associated symptoms include fatigue, nausea, light sensitivity, and rash (not specified)
+* Patient has been taking Paracetamol for fever relief, but the fever spikes again after a few hours
+
+Objective:
+* Patient's temperature is 39.5°C
+* Patient has been feeling unwell for the past few days
+* Patient has a history of a rural trip about two weeks ago
+* Patient has a known allergy to Penicillin
+* Patient did not receive any vaccinations before the trip
+* Patient has not experienced any outbreaks of skin rash, redness, or skin soreness since their illness began
+* Patient has not noticed any changes in their bowel habits, urine color, or unrelated pain
+
+Assessment:
+* Based on the patient's symptoms and exposure history, the possibility of tropical diseases such as malaria, dengue fever, or chikungunya is high
+* Common causes of fever such as flu, sinusitis, or pneumonia are also possible
+
+Plan:
+* Perform basic blood workup including complete blood count, erythrocyte sedimentation rate, and C-reactive protein
+* Consider lumbar puncture or brain imaging if needed, but dependent on blood test results
+* Modify patient's medication to a stronger fever reducer and add an anti-nausea medication
+* Instruct patient to rest and drink plenty of fluids
+* Schedule follow-up appointment with the receptionist once the patient has their test results
+
+Note: The patient's symptoms and exposure history suggest the possibility of a tropical disease, and therefore, blood workup is indicated to rule out malaria, dengue fever, or chikungunya. Common causes of fever such as flu, sinusitis, or pneumonia are also possible, and therefore, these should be considered as well. The patient's known allergy to Penicillin and non-smoker status are also noted.

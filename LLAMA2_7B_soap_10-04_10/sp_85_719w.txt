@@ -1,0 +1,23 @@
+ Sure, here is the SOAP note for the patient visit:
+Subjective:
+* The patient, Mr. Johnson, is experiencing frequent headaches, dizziness, and blurred vision, as well as fatigue and decreased appetite.
+* He has noticed a change in his sleep patterns and has been experiencing anxiety.
+* He has no known chronic conditions or allergies and does not have a family history of significant medical conditions.
+
+Objective:
+* Blood pressure: 140/90 mmHg (elevated)
+* Pulse rate: 80 beats per minute
+* Oxygen levels: Normal
+* Temperature: Normal
+
+Assessment:
+* The patient's symptoms could be related to a variety of conditions, including migraines, sinusitis, or an anxiety disorder.
+* The elevated blood pressure could be a contributing factor to his symptoms.
+* The patient's recent weight loss and decreased appetite are concerning and could be related to an underlying medical condition.
+
+Plan:
+* Order complete blood count, lipid profile, and thyroid hormone panel to rule out any underlying medical conditions.
+* Schedule the patient for an eye examination to assess his vision.
+* Advise the patient to keep a headache diary to identify any potential triggers and to practice stress management techniques.
+* Encourage the patient to maintain a well-balanced diet and engage in regular physical activity.
+* Review the patient's test results and discuss the best course of action during the next visit.

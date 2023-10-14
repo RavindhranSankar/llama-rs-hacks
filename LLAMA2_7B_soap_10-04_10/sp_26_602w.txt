@@ -1,0 +1,21 @@
+ Subjective:
+* Patient: Mary Johnson
+* Symptoms: Persistent cough, tiredness, low-grade fever, shortness of breath
+
+Objective:
+* Patient has been experiencing a persistent cough for a few weeks
+* Patient has noticed other symptoms such as fatigue and shortness of breath
+* Patient has not experienced any changes in appetite or weight
+* Patient has not been exposed to any sick individuals recently
+
+Assessment:
+* The patient's symptoms are consistent with a respiratory infection or exacerbation
+* The patient's recent travel history and exposure to sick individuals are being considered in the assessment
+* The patient's history of high blood pressure is also being taken into account
+
+Plan:
+* Recommendation for a COVID-19 test to rule out the possibility of COVID-19 infection
+* Prescription for a mild cough suppressant to help manage the patient's cough
+* Instruction to isolate the patient until the COVID-19 test results are available
+* Recommendation for the patient to take time off from work and avoid close contact with others until the test results are available
+* Follow-up appointment scheduled for the patient to check on their progress.

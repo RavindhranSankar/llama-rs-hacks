@@ -1,0 +1,25 @@
+ Subjective:
+* Patient has been experiencing a constant headache, fever, and cold sweats for the past few days
+* Patient's appetite has decreased
+* Patient has noticed a recent development of a fever, which has been consistently around 39 degrees Celsius
+* Headaches are mostly in the front of the patient's head and are present all day, becoming severe in the evenings
+* Patient has experienced cold sweats, mostly during the fever, especially at night
+
+Objective:
+* Patient presents with a history of fever and headache
+* Patient's temperature is consistently high, around 39 degrees Celsius
+* Patient's headaches are severe and persistent
+* Patient has noticed a decrease in appetite
+* Patient has experienced cold sweats, especially at night
+
+Assessment:
+* Patient's symptoms are consistent with a possible viral or bacterial infection, such as the flu or a sinus infection
+* Patient's fever and headache could be related to an infectious cause, such as a respiratory infection or meningitis
+* Patient's decreased appetite and cold sweats could be related to the infection or to a more serious underlying condition, such as a gastrointestinal infection or a metabolic disorder
+* It is important to rule out any serious underlying conditions, such as meningitis or sepsis, which can have severe consequences if left untreated
+
+Plan:
+* Order a rapid strep test and blood tests to determine the cause of the patient's symptoms
+* Treat the patient's fever and headache symptomatically with paracetamol
+* Monitor the patient's condition closely and follow up with further testing and treatment as necessary
+* Inform the patient of the potential causes of their symptoms and the importance of following up with further testing and treatment to rule out any serious underlying conditions.

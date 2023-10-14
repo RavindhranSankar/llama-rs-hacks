@@ -1,0 +1,12 @@
+ Subjective:
+The patient is experiencing headaches, fatigue, and loss of appetite. The symptoms started about two weeks ago and have been persistent. The patient has not noticed any fever, but they feel generally unwell. The patient's sleep pattern has been irregular, and they have been experiencing stress at work.
+Objective:
+The patient has been experiencing headaches, fatigue, and loss of appetite for two weeks. They have not checked their temperature, but they do not feel unusually hot. The patient's weight has not changed recently. The headaches are present throughout the day but worsen at night, and they are severe. The patient's fatigue is constant, even after a good night's sleep. The patient's appetite has decreased, especially in the mornings. The patient is taking medication for high blood pressure and type 2 diabetes and is following a healthy diet. The patient has been under a lot of work-related stress recently.
+Assessment:
+Based on the patient's symptoms, it is possible that they have an underlying medical condition that is causing their symptoms. The patient's history of high blood pressure and type 2 diabetes increases the likelihood of an underlying condition. The patient's recent stress at work may also be contributing to their symptoms.
+Plan:
+
+1. Order a complete blood count and a thyroid function test to rule out any underlying medical conditions.
+2. Recommend relaxation exercises such as deep breathing, meditation, and establishing a regular sleep schedule to manage stress and improve sleep.
+3. Monitor the patient's symptoms and adjust the treatment plan as needed based on the test results.
+4. Schedule a follow-up appointment to review the test results and discuss any necessary next steps.

@@ -1,0 +1,23 @@
+ Sure, here is the SOAP note for the patient encounter with the doctor:
+Subjective:
+* Patient presents with a week-long history of stomach pain and headaches, which have been progressive and more frequent over the past couple of days.
+* Patient's appetite has decreased and they have experienced nausea and vomiting, although not consistently.
+* Headaches are intense and located around the temples, spreading to the entire head, with stress exacerbating the symptoms.
+* Patient notices brightness sensitivity and noise sensitivity during headaches.
+* Sleep deprivation is suspected to contribute to the headaches.
+
+Objective:
+* Patient's vital signs are normal.
+* Physical examination reveals no abnormalities in the abdomen or head.
+
+Assessment:
+* Diagnosis: Gastrointestinal upset and headaches, likely related to stress and sleep deprivation.
+* Plan:
+	+ Conduct endoscopy and CT scan to rule out any underlying gastrointestinal or neurological conditions.
+	+ Provide lifestyle modifications to improve sleep hygiene, including avoiding caffeine and exercising regularly.
+	+ Consider stress management techniques, such as mindfulness, meditation, and mental health professional consultation.
+	+ Prescribe medication to alleviate stomach discomfort and pain.
+	+ Instruct patient to maintain a symptom diary to track symptoms and potential triggers.
+	+ Schedule follow-up appointment to review test results and adjust plan as needed.
+
+Note: The above SOAP note is a simplified version, and the actual note may include additional information or details based on the patient's medical history and other factors.

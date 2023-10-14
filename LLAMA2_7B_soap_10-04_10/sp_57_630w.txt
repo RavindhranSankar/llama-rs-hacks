@@ -1,0 +1,14 @@
+ Subjective:
+* Mrs. Johnson is a 55-year-old female who presents with tiredness, chest discomfort, and weight loss.
+Objective:
+* Patient reports experiencing tiredness and chest discomfort for the past week, with no previous history of these symptoms.
+* Patient also reports losing seven pounds over the past month without trying.
+* Patient has a family history of heart disease and a mother with diabetes.
+* Patient's diet and physical activity are average, and she drinks alcohol occasionally.
+Assessment:
+* Based on the patient's symptoms and family history, there is a possibility of coronary artery disease or other cardiac conditions.
+* A comprehensive diagnostic workup, including blood tests, chest X-ray, electrocardiogram, and stress test, is necessary to rule out any cardiac conditions.
+Plan:
+* Schedule the patient for a stress test to assess her cardiovascular fitness and identify any potential cardiac issues.
+* In the meantime, advise the patient to rest as much as possible, avoid stressful or strenuous activities, and monitor her symptoms closely.
+* Provide the patient with a follow-up appointment in one week to discuss the test results and develop a treatment plan.

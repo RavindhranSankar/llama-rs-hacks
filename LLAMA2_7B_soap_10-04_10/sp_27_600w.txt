@@ -1,0 +1,26 @@
+ Subjective:
+* John Doe has been experiencing severe headaches for the past couple of weeks.
+* The headaches are dull and constant, with throbbing pain at times.
+* The pain is rated at a 4-8 on a scale of 1-10.
+* Bright lights make the headaches worse.
+* John has been feeling fatigued lately.
+* He has noticed no nausea or dizziness, but sensitivity to light and sound is present.
+
+Objective:
+* John Doe presented with a complaint of severe headaches.
+* The headaches have been occurring for the past couple of weeks.
+* The headaches are dull and constant, with throbbing pain at times.
+* The pain is rated at a 4-8 on a scale of 1-10.
+* Bright lights make the headaches worse.
+* John has been feeling fatigued lately.
+
+Assessment:
+* Based on John's symptoms, it is likely that he is experiencing tension-type headaches, which are often associated with stress, poor sleep, and caffeine abuse.
+
+Plan:
+* Conduct a physical and neurological exam to confirm the diagnosis.
+* Develop a tailored treatment plan to manage John's headaches, including lifestyle changes such as improving sleep hygiene, reducing caffeine intake, and effective stress management.
+* Consider medication to manage the pain.
+* Instruct John to keep a headache diary to track his symptoms and identify potential triggers.
+* Schedule follow-up appointments to monitor John's progress and adjust the treatment plan as needed.
+* Provide emergency relief procedures in case the headaches become unmanageable.

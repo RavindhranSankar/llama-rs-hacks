@@ -1,0 +1,24 @@
+ Subjective:
+* The patient has been experiencing frequent headaches, mostly near the forehead and sometimes at the back of the head, for the past two weeks.
+* The headaches are described as a constant dull ache.
+* The patient has noticed that the headaches occur when they are working on their computer or reading for long periods.
+* The patient has tried taking ibuprofen, which dulls the pain but does not completely go away.
+* The patient has not noticed any other symptoms, such as sensitivity to light or sound, nausea, or dizziness.
+
+Objective:
+* The patient has been experiencing frequent headaches for the past two weeks.
+* The patient has noticed that the headaches occur when they are working on their computer or reading for long periods.
+* The patient has tried taking ibuprofen, which dulls the pain but does not completely go away.
+
+Assessment:
+* Based on the patient's symptoms, it is possible that they are experiencing tension-type headaches, which are triggered by stress, poor posture, and eye strain.
+* However, it is important to rule out other potential causes, such as infection, high blood pressure, or issues with blood sugar, through further testing.
+
+Plan:
+* Continue taking ibuprofen when needed to dull the pain.
+* Reduce screen time and manage stress.
+* Improve posture while reading or using the computer.
+* Gradually decrease caffeine consumption.
+* Keep track of when the headaches occur and what the patient is doing at the time.
+* Schedule a follow-up appointment in two weeks to review symptoms and test results.
+* If needed, get an MRI scan done to further rule out other potential causes.

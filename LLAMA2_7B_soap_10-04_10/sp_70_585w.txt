@@ -1,0 +1,24 @@
+ Subjective:
+* Patient has been experiencing difficulty sleeping and feeling lethargic
+* Patient has gained weight despite maintaining a balanced diet and regular exercise
+* Patient has noticed changes in their mood and emotions, including irritability and emotional shifts
+* Patient has been experiencing constipation and hair loss
+* Patient's menstruation cycle has become irregular
+
+Objective:
+* Patient has been experiencing symptoms for two and a half months
+* Patient has tried to manage symptoms with lifestyle changes, but they have not improved
+* Patient has not noticed any significant changes in their lifestyle, eating habits, or medications during this period
+* Patient's sleep pattern is poor, and they feel restless even after sleeping for an adequate amount of time
+
+Assessment:
+* Hypothyroidism is a likely cause of the patient's symptoms, including weight gain, lethargy, sleep disturbances, emotional shifts, and constipation
+* The patient's irregular menstruation cycle may also be related to hypothyroidism
+* Further investigations, including thyroid function tests, complete blood count, and lipid profile, are necessary to confirm the diagnosis
+
+Plan:
+* Conduct thyroid function tests to confirm the diagnosis of hypothyroidism
+* Conduct a complete blood count and lipid profile to rule out anemia or lipid issues
+* Develop a treatment plan to manage the patient's symptoms, including medication and lifestyle changes
+* Refer the patient to a specialist if necessary
+* Encourage the patient to keep a journal of their symptoms, diet, and sleep patterns to provide further insights into their condition.

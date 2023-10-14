@@ -1,0 +1,18 @@
+ Subjective:
+* Patient experiences discomfort in the lower left side of their stomach, described as a "discomfort" rather than pain.
+* Patient has difficulty sleeping, waking up multiple times during the night.
+
+Objective:
+* Patient experiences discomfort in the lower left side of their stomach.
+* Patient has difficulty sleeping, waking up multiple times during the night.
+
+Assessment:
+* Discomfort in the stomach area, possibly related to stress and dietary factors.
+* Difficulty sleeping, possibly related to stress and stomach discomfort.
+
+Plan:
+* Reduce caffeine intake and stick to a balanced diet.
+* Ensure proper hydration.
+* Try relaxation activities such as exercise, mindfulness, or meditation to manage stress.
+* Schedule a follow-up appointment in two weeks to discuss lab results and revisit symptoms.
+* If symptoms intensify before the follow-up appointment, contact the clinic for further evaluation.

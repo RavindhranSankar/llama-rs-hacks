@@ -1,0 +1,23 @@
+ Sure, here is the SOAP note for the given transcript:
+Subjective:
+* The patient is experiencing discomfort in the abdominal area, which is located around the belly button.
+* The pain is bearable some days and severe on other days, rating it a 7 on a 10-scale.
+* The pain worsens after eating.
+* The patient has noticed a loss of appetite over the past week.
+
+Objective:
+* The patient presented with abdominal discomfort, pain, and loss of appetite.
+* The pain is located in the abdominal area around the belly button.
+* The pain worsens after eating.
+* The patient has noticed a loss of appetite over the past week.
+
+Assessment:
+* The patient's symptoms are consistent with gastritis or ulcers.
+* The patient's diet and stress levels may be contributing to the symptoms.
+* The patient should undergo further testing, including a Complete Blood Count and an abdominal ultrasound, to rule out any underlying conditions.
+
+Plan:
+* The patient will undergo further testing to rule out any underlying conditions.
+* The patient will be prescribed an OTC antacid to help relieve symptoms.
+* The patient is advised to adopt a healthier diet, avoiding spicy and fatty foods.
+* The patient will schedule a follow-up appointment to discuss the test results and develop a treatment plan.

@@ -1,0 +1,21 @@
+ Sure, here is the SOAP note for Mrs. Johnson:
+Subjective:
+
+* Persistent cough for 2 weeks
+* Low energy levels for the past month or so
+
+Objective:
+
+* Cough: Inflamed throat, clear lungs
+* Energy levels: Low
+
+Assessment:
+
+* Possible causes of cough and low energy levels: Anemia, thyroid imbalance, lung-related matters like pneumonia or TB
+
+Plan:
+
+* Prescribe cough suppressant syrup and medication to boost energy levels
+* Conduct lab tests (complete blood count, thyroid function test, chest X-ray, and TB test)
+* Instruct patient to eat balanced meals, manage stress, and drink plenty of fluids
+* Follow-up in one week to review lab results and adjust treatment plan as needed.

@@ -1,0 +1,21 @@
+ Subjective:
+* The patient has been feeling unwell for a week with a persistent cough, runny nose, sore throat, fever, body aches, joint pain, and fatigue.
+Objective:
+* The patient's temperature is slightly elevated at 100.3°F.
+* The patient's blood pressure and heart rate are within the normal range.
+* The patient's throat is red and inflamed, indicating a possible infection.
+* The patient's lungs sound clear and there are no signs of any other concerning findings.
+
+Assessment:
+* Based on the patient's symptoms and physical examination, it is likely that they are suffering from a common viral respiratory infection such as the flu or a cold.
+* The rapid strep test results came back negative, which rules out a bacterial infection such as strep throat.
+
+Plan:
+* The patient is advised to take over-the-counter pain relievers such as acetaminophen or ibuprofen to reduce fever, body aches, and sore throat.
+* The patient is encouraged to stay hydrated by drinking plenty of fluids like water, warm tea, and clear soups.
+* The patient is advised to get plenty of rest and avoid strenuous activities until they start feeling better.
+* The patient is recommended to use saline nasal drops or sprays to alleviate nasal congestion and reduce post-nasal drip.
+* The patient is advised to gargle with warm saltwater multiple times a day to soothe their sore throat.
+* The patient is encouraged to consider using a humidifier or taking steam inhalation to relieve congestion and ease breathing.
+* The patient is reminded to practice good hand hygiene, such as regularly washing hands with soap and water, to prevent the spread of the infection.
+* The patient is advised to follow up with another visit if their symptoms worsen or persist beyond two weeks.

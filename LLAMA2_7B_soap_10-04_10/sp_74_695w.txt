@@ -1,0 +1,22 @@
+ Subjective:
+* Patient presents with fatigue and shortness of breath
+* Patient has been experiencing fatigue for 2 weeks
+* Patient's breathing is more labored than usual
+
+Objective:
+* Patient reports feeling tired and out of breath
+* Patient's daily routine involves working from 7 am to 6 pm, with little time for exercise or a balanced diet
+* Patient smokes a pack of cigarettes a day and drinks alcohol in the evening
+* Patient has a history of neglecting their health due to busy schedule
+
+Assessment:
+* Fatigue and shortness of breath may be related to anemia, thyroid function, blood sugar levels, liver function, or heart-related issues
+* Patient's lifestyle habits, such as lack of exercise and poor diet, may be contributing to their symptoms
+* Patient's history of neglecting their health suggests a possible underlying condition that needs to be addressed
+
+Plan:
+* Order blood tests to check for anemia, thyroid function, blood sugar levels, liver function, and heart-related issues
+* Schedule a complete respiratory check-up to rule out any breathing-related issues
+* Encourage patient to make slight alterations to their lifestyle, such as incorporating a balanced diet and exercising regularly
+* Advise patient to cut back on smoking and drinking
+* Discuss the results of the tests and any necessary steps with the patient once they are available.

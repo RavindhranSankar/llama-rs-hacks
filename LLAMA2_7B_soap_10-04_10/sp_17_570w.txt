@@ -1,0 +1,26 @@
+ Subjective:
+* Patient, Mr. Smith, presents with a sore throat, runny nose, cough, and chest pain.
+* Temperature fluctuates between 99°F and 101°F.
+* Patient has been experiencing these symptoms for almost a week.
+* Patient's brother recently visited from out of town.
+
+Objective:
+
+* Patient's breathing is slightly labored but lungs are clear.
+* Patient will undergo chest x-ray and blood tests to determine the cause of symptoms.
+* Patient is advised to track symptoms and temperature daily using an app or physical log.
+* Patient is prescribed an expectorant and mild pain reliever for cough and chest pain.
+* Patient is instructed to rest and hydrate.
+
+Assessment:
+* Patient's symptoms are consistent with potential COVID-19 infection.
+* Patient's recent travel history and close contact with someone who has recently traveled or been diagnosed with COVID-19 increase the likelihood of infection.
+* Chest x-ray and blood tests are necessary to confirm the diagnosis.
+
+Plan:
+
+* Patient will undergo chest x-ray and blood tests.
+* Patient will be advised to isolate themselves from others until test results are available.
+* Patient will be prescribed medication to alleviate symptoms.
+* Patient will be instructed to rest and hydrate.
+* Patient will be advised to contact the clinic if symptoms intensify or if they develop any new symptoms.

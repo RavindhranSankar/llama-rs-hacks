@@ -1,0 +1,22 @@
+ Sure, here is the SOAP note for the given transcript:
+Subjective:
+* Mr. Doe has been experiencing fatigue and chest pain for the past two weeks.
+* The fatigue is persistent and hinders his daily tasks.
+* He has occasional dizziness.
+
+Objective:
+* Mr. Doe's vital signs are normal.
+* He has a history of hypertension and smoking.
+* He recently quit smoking.
+* He has a family history of heart disease and diabetes.
+
+Assessment:
+* Based on Mr. Doe's symptoms and medical history, it is likely that he has overworked his heart, leading to fatigue, chest pain, and dizziness.
+* An EKG and blood tests are recommended to confirm this diagnosis and rule out any other potential causes.
+
+Plan:
+* Mr. Doe will undergo an EKG and blood tests as recommended by Dr. Sharma.
+* He will be advised to maintain a healthy diet and regular exercise.
+* He should avoid overexertion and stressful situations.
+* He will be seen again in a week to discuss the test results and develop a treatment plan.
+* If his symptoms worsen, he should seek emergency care.

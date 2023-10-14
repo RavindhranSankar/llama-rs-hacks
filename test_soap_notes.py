@@ -111,7 +111,6 @@ def main(
             # Write the string to the file
             file.write(content)
 
-        break
 
 
 if __name__ == "__main__":

@@ -1,0 +1,21 @@
+ Sure, here is the SOAP note for the patient based on the provided transcript:
+Subjective:
+* Patient presents with fatigue and headaches
+* Fatigue is persistent and occurs despite adequate sleep
+* Headaches are constant and occur irregularly
+
+Objective:
+* Patient reports starting these symptoms two weeks ago
+* Headaches are stronger in the evening
+* Patient has been experiencing stress due to a new job
+
+Assessment:
+* Fatigue and headaches may be related to stress and poor nutrition
+* Lifestyle changes, such as a balanced diet and regular exercise, may help improve symptoms
+* Further testing, such as blood work, may be necessary to rule out other potential causes
+
+Plan:
+* Schedule follow-up appointment to discuss test results and lifestyle changes
+* Encourage patient to adopt a balanced diet and regular exercise
+* Discuss stress coping mechanisms and relaxation techniques with patient
+* Consider cognitive behavioral therapy if lifestyle modifications do not improve symptoms.

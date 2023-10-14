@@ -1,0 +1,26 @@
+ Sure, here is the SOAP note for the patient:
+Subjective:
+* Patient presents with persistent headaches for the last couple of weeks
+* Headaches are located in the front and sides of the head
+* Pain is described as a tight band around the head
+* Headaches occur almost every day, around mid-afternoon, and last for a couple of hours
+* Patient notices that the headaches start after working on the computer for a few hours
+* Pain is sometimes severe and tends to get worse as the day goes by
+
+Objective:
+* Patient presents with a normal sleep pattern (6 hours)
+* Patient's diet and stress levels are suboptimal due to work-related stress
+* Patient has not noticed any sensitivity to light or sound, nausea, or vision disturbances
+* Physical activity does not seem to affect the headaches
+
+Assessment:
+* Tension-type headaches are suspected due to the location and frequency of the headaches
+* Eye strain may also be a contributing factor
+* Lifestyle modifications, such as regular breaks from computer work and relaxation techniques, are recommended to manage the headaches
+* A vision test may be necessary to rule out any contributing factors
+
+Plan:
+* Recommend lifestyle modifications to manage headaches
+* Schedule a follow-up appointment in a month
+* Encourage patient to call if headaches worsen or new symptoms develop
+* Refer patient to a physiotherapist for exercises to reduce muscle tension.
