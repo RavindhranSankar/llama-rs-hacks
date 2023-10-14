@@ -11,7 +11,7 @@ import os
 model = "LLAMA2_7B"
 
 current_directory = os.path.dirname(os.path.abspath(__file__))
-transcript_folder = "/home/ubuntu/daily/llama-rs-hacks/transcript_10-04_10"
+transcript_folder = "transcript_10-04_10"
 soap_folder = transcript_folder.replace("transcript", "soap")
 soap_folder = model + "_" + soap_folder
 
@@ -24,9 +24,6 @@ os.makedirs(soap_folder, exist_ok=True)
 
 file_list = os.listdir(transcript_path)
 transcripts = [file for file in file_list if file.startswith("tr_") and file.endswith(".txt")]
-
-transcript_path = "/home/ubuntu/daily/llama-rs-hacks/transcript_10-04_10"
-txt_file = "tr_0_688w.txt"
 
 system_context = """
 You are a nurse practitioner with over 20 years of experience
@@ -81,7 +78,7 @@ def main(
             continue
 
         prompt = f"Transcript: `{transcript}`"
-        print("[{i+1}] : done. prompt ready....")
+        print(f"[{i+1}] : done. prompt ready....")
 
         dialogs: List[Dialog] = [
             [
@@ -108,7 +105,7 @@ def main(
         soap_file = txt_file.replace("tr_", "sp_")
         soap_file_path = os.path.join(soap_folder, soap_file)
 
-        print(f"[{i+1}] : saving response")
+        print(f"[{i+1}] : saving response: {soap_file_path}")
         # Open the file in write mode ('w')
         with open(soap_file_path, "w") as file:
             # Write the string to the file
