@@ -27,6 +27,7 @@ load_dotenv(dotenv_path=env_path)
 
 # hugging face access token
 ravi_hf_token = os.environ["HF_TOKEN"]
+print("1: HF token read - ok")
 
 
 # helper functions
@@ -66,6 +67,7 @@ def inference(text, model, tokenizer, max_input_tokens=3000, max_output_tokens=2
 # setup
 filename = "training_data_10_20_09.jsonl"
 finetuning_dataset = datasets.load_dataset("json", data_files=filename, split="train")
+print("2: training data read - ok")
 
 # model, tokenizer setup
 llama_2_model = "meta-llama/Llama-2-7b-chat-hf"
@@ -74,12 +76,14 @@ dataset_path = "training_data_10_20_09.jsonl"
 tokenizer = AutoTokenizer.from_pretrained(llama_2_model, token=ravi_hf_token)
 tokenizer.pad_token = tokenizer.eos_token
 max_length = 2048
+print("3: tokenizer setup - okay")
 
 # tokenize a single training data point
 text = finetuning_dataset[0]["user"] + finetuning_dataset[0]["output"]
 tokenized_inputs = tokenizer(text, return_tensors="np", padding=True, truncation=True, max_length=max_length)
 
 tokenized_dataset = finetuning_dataset.map(tokenize_function, batched=True, batch_size=1, drop_last_batch=True)
+print("4: tokenized dataset done - okay")
 
 # Setup training config
 training_config = {
@@ -92,13 +96,14 @@ training_config = {
 split_dataset = tokenized_dataset.train_test_split(test_size=0.1, shuffle=True, seed=123)
 train_dataset = split_dataset["train"]
 test_dataset = split_dataset["test"]
-print(split_dataset)
+print("5: tokenized dataset test/train split done - okay")
 
 # Get base_model for finetuning
 base_model = AutoModelForCausalLM.from_pretrained(
     llama_2_model,
     token=ravi_hf_token,
 )
+print(f"6: get base model {llama_2_model} - okay")
 
 # Setup GPU device if available
 device_count = torch.cuda.device_count()
@@ -106,10 +111,13 @@ if device_count > 0:
     logger.debug("Select GPU device")
     device = torch.device("cuda")
 else:
-    logger.debug("Select CPU device")
-    device = torch.device("cpu")
+    # logger.debug("Select CPU device")
+    # device = torch.device("cpu")
+    raise Exception("GPU device not found !!!!")
+print(f"7: get base model {llama_2_model} - okay")
 
 base_model.to(device)
+print(f"8: copy model to GPU - okay")
 
 # Setup Training
 max_steps = 100
@@ -147,12 +155,12 @@ training_args = TrainingArguments(
     metric_for_best_model="eval_loss",
     greater_is_better=False,
 )
+print(f"9: setup training arguments - okay")
 
 model_flops = (
     base_model.floating_point_ops({"input_ids": torch.zeros((1, training_config["model"]["max_length"]))})
     * training_args.gradient_accumulation_steps
 )
-
 print(base_model)
 print("Memory footprint", base_model.get_memory_footprint() / 1e9, "GB")
 print("Flops", model_flops / 1e9, "GFLOPs")
@@ -165,11 +173,13 @@ trainer = Trainer(
     train_dataset=train_dataset,
     eval_dataset=test_dataset,
 )
+print(f"9: setup trainer - okay")
 
+print(f"9.5: Start training....")
 training_output = trainer.train()
+print(f"10: training done - okay")
 
 save_dir = f"{output_dir}/final"
-
 trainer.save_model(save_dir)
 print("Saved model to:", save_dir)
 
@@ -182,3 +192,5 @@ print("Question input (test):", test_question)
 
 print("Finetuned slightly model's answer: ")
 print(inference(test_question, finetuned_slightly_model, tokenizer))
+
+print("---------------------------------------------")
