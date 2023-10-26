@@ -2,3 +2,13 @@ torch
 fairscale
 fire
 sentencepiece
+openai
+python-dotenv
+llama-cpp-python
+lamini
+jsonlines
+datasets
+pandas
+pprint
+transformers
+accelerate
